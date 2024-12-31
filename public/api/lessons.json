@@ -12,5 +12,12 @@
       "description": "Parts of Speech",
       "image": "https://placehold.co/400",
       "url": "/lessons/parts-of-speech"
+    },
+    {
+      "id": 3,
+      "title": "markdown demo",
+      "description": "Markdown Demo",
+      "image": "https://placehold.co/400",
+      "url": "/lessons/markdown-demo"
     }
   ]
