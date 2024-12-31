@@ -3,14 +3,14 @@
       "id": 1,
       "title": "introduction",
       "description": "Introduction to English Grammar",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://placehold.co/400",
       "url": "/lessons/introduction"
     },
     {
       "id": 2,
       "title": "parts of speech",
       "description": "Parts of Speech",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://placehold.co/400",
       "url": "/lessons/parts-of-speech"
     }
   ]
