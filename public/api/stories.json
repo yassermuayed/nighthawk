@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "url": "stories/1",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Reconstructed_Model_of_Palace_of_Sargon_at_Khosrabad_1905.jpg/1280px-Reconstructed_Model_of_Palace_of_Sargon_at_Khosrabad_1905.jpg",
+    "title": {
+      "default": "Sargon II’s Forgotten City Revealed Through New Survey",
+      "translation": "مدينة سرجون الثاني المنسية: اكتشاف جديد يكشف الأسرار"
+    },
+    "description": "The ancient city of Dur-Sharrukin was built by Sargon II in the 8th century BC.",
+    "tags": ["ancient", "archaeology", "museum"],
+    "level": 1,
+    "words": 100,
+    "locations": [{ "country": "United States", "place": "New York" }],
+    "date": "2020-01-01",
+    "sources": ["https://www.englishpod"]
+  }
+]

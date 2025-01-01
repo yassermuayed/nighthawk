@@ -1,0 +1,224 @@
+{
+  "storyId": "sargon-city-discovery",
+  "title": {
+    "default": "Sargon II’s Forgotten City Revealed Through New Survey",
+    "translation": "مدينة سرجون الثاني المنسية: اكتشاف جديد يكشف الأسرار"
+  },
+  "content": [
+    {
+      "id": "sentence-1-1",
+      "text": {
+        "default": "Around 700 BC, Neo-Assyrian emperor Sargon II started building a new capital, Dur-Sharrukin ('Fortress of Sargon'), in what is now Iraq.",
+        "translation": "حوالي عام 700 قبل الميلاد، بدأ الإمبراطور الآشوري الجديد سرجون الثاني بناء عاصمة جديدة، دور شروكين ('قلعة سرجون')، في ما يُعرف الآن بالعراق."
+      }
+    },
+    {
+      "id": "sentence-1-2",
+      "text": {
+        "default": "It was thought that the city was abandoned soon after construction began, leaving only ruins.",
+        "translation": "كان يُعتقد أن المدينة هُجرت بعد فترة قصيرة من بدء البناء، ولم يبقَ منها سوى الأنقاض."
+      }
+    },
+    {
+      "id": "sentence-1-3",
+      "text": {
+        "default": "However, new research using advanced technology shows the city may have been more developed than previously believed.",
+        "translation": "ومع ذلك، تُظهر أبحاث جديدة باستخدام تقنيات متقدمة أن المدينة ربما كانت أكثر تطورًا مما كان يُعتقد سابقًا."
+      }
+    },
+    {
+      "id": "sentence-2-1",
+      "text": {
+        "default": "At the AGU's 2024 Annual Meeting in Washington, D.C., scientists shared findings from a precision magnetometer survey.",
+        "translation": "في الاجتماع السنوي لاتحاد الجيوفيزياء الأمريكي لعام 2024 في واشنطن العاصمة، شارك العلماء اكتشافات من مسح مغناطيسي دقيق."
+      }
+    },
+    {
+      "id": "sentence-2-2",
+      "text": {
+        "default": "The data revealed hidden structures and infrastructure, suggesting Khorsabad, as it is now known, was once a thriving city beyond its famous palace.",
+        "translation": "كشفت البيانات عن هياكل وبنية تحتية مخفية، مما يشير إلى أن خورساباد، كما تُعرف الآن، كانت مدينة مزدهرة في وقت ما، وليس فقط قصرها الشهير."
+      }
+    },
+    {
+      "id": "sentence-3-1",
+      "text": {
+        "default": "Sargon II died shortly after the city’s construction began, and his son moved the capital to Nineveh.",
+        "translation": "توفي سرجون الثاني بعد فترة قصيرة من بدء بناء المدينة، ونقل ابنه العاصمة إلى نينوى."
+      }
+    },
+    {
+      "id": "sentence-3-2",
+      "text": {
+        "default": "For centuries, Khorsabad was forgotten.",
+        "translation": "لعدة قرون، نُسيت خورساباد."
+      }
+    },
+    {
+      "id": "sentence-3-3",
+      "text": {
+        "default": "Rediscovered in the 1800s, archaeologists uncovered Sargon’s palace but found little evidence of other buildings, leading them to believe construction was never completed.",
+        "translation": "أُعيد اكتشافها في القرن التاسع عشر، حيث كشف علماء الآثار عن قصر سرجون ولكنهم وجدوا أدلة قليلة على وجود مبانٍ أخرى، مما جعلهم يعتقدون أن البناء لم يكتمل أبدًا."
+      }
+    },
+    {
+      "id": "sentence-4-1",
+      "text": {
+        "default": "In 2017, after the site was freed from ISIS occupation, French archaeologists launched a new study to assess damage and investigate the city further.",
+        "translation": "في عام 2017، بعد تحرير الموقع من احتلال داعش، بدأ علماء الآثار الفرنسيون دراسة جديدة لتقييم الأضرار والتحقيق في المدينة بشكل أعمق."
+      }
+    },
+    {
+      "id": "sentence-4-2",
+      "text": {
+        "default": "In 2022, researchers led by Jörg Fassbinder used a high-resolution magnetometer to survey 7% of the site.",
+        "translation": "في عام 2022، استخدم الباحثون بقيادة يورغ فاسبندر جهاز مغناطيسية عالي الدقة لمسح 7% من الموقع."
+      }
+    },
+    {
+      "id": "sentence-4-3",
+      "text": {
+        "default": "The device detects differences in magnetic properties in the ground, revealing buried structures without excavation.",
+        "translation": "يكتشف الجهاز الاختلافات في الخصائص المغناطيسية في الأرض، مما يكشف عن هياكل مدفونة دون الحاجة إلى التنقيب."
+      }
+    },
+    {
+      "id": "paragraph-5",
+      "text": {
+        "default": "To avoid attracting attention in the unstable region, the team carried the equipment by hand, walking over 13 miles daily for a week.",
+        "translation": "لتجنب لفت الانتباه في المنطقة غير المستقرة، حمل الفريق المعدات يدويًا، حيث مشوا أكثر من 13 ميلاً يوميًا لمدة أسبوع."
+      }
+    },
+    {
+      "id": "paragraph-6",
+      "text": {
+        "default": "The survey uncovered surprising details: a water gate, potential palace gardens, and five massive buildings, including a 127-room villa twice the size of the White House.",
+        "translation": "كشف المسح عن تفاصيل مدهشة: بوابة مائية، وحدائق قصر محتملة، وخمسة مبانٍ ضخمة، بما في ذلك فيلا تحتوي على 127 غرفة، وهي ضعف حجم البيت الأبيض."
+      }
+    },
+    {
+      "id": "paragraph-7",
+      "text": {
+        "default": "These findings show Khorsabad was more than just a construction zone—it was once a bustling city.",
+        "translation": "تُظهر هذه الاكتشافات أن خورساباد كانت أكثر من مجرد منطقة بناء—لقد كانت مدينة نابضة بالحياة."
+      }
+    },
+    {
+      "id": "paragraph-8",
+      "text": {
+        "default": "The survey also saved time and money by offering a clear map for future excavations, proving the value of geophysical tools in archaeology.",
+        "translation": "كما وفر المسح الوقت والمال من خلال تقديم خريطة واضحة لعمليات التنقيب المستقبلية، مما يثبت قيمة الأدوات الجيوفيزيائية في علم الآثار."
+      }
+    }
+  ],
+  "images": [
+    {
+      "id": "image-1",
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Reconstructed_Model_of_Palace_of_Sargon_at_Khosrabad_1905.jpg/1280px-Reconstructed_Model_of_Palace_of_Sargon_at_Khosrabad_1905.jpg",
+      "alt": "Image 1",
+      "description": {
+        "default": "Reconstructed Model of Palace of Sargon at Khorsabad",
+        "translation": "نموذج معماري معاد بناء قصر سرجون في خورساباد"
+      }
+    }
+  ],
+  "testQuestions": [
+    {
+      "id": "test-question-1",
+      "question": {
+        "id": "question-1",
+        "text": {
+          "default": "What does the device used in the survey detect to reveal buried structures?",
+          "translation": "ماذا يكتشف الجهاز المستخدم في المسح لكشف عن هياكل مدفونة؟"
+        }
+      },
+      "options": [
+        {
+          "id": "option-1",
+          "text": {
+            "default": "Differences in temperature in the ground",
+            "translation": "اختلافات في الحرارة في الأرض"
+          }
+        },
+        {
+          "id": "option-2",
+          "text": {
+            "default": "Differences in magnetic properties in the ground",
+            "translation": "اختلافات في الخصائص المغناطيسية في الأرض"
+          }
+        },
+        {
+          "id": "option-3",
+          "text": {
+            "default": "Changes in sound waves underground",
+            "translation": "تغييرات في رسائل الصوت في الأرض"
+          }
+        },
+        {
+          "id": "option-4",
+          "text": {
+            "default": "Traces of water beneath the surface",
+            "translation": "علامات من الماء تحت الطاقة"
+          }
+        }
+      ],
+      "correctOptionId": "option-2",
+      "explanation": {
+        "id": "explanation-1",
+        "text": {
+          "default": "The device detects differences in magnetic properties in the ground, which helps reveal buried structures without excavation.",
+          "translation": "الجهاز يكتشف اختلافات في الخصائص المغناطيسية في الأرض، وهذا يساعد في كشف عن هياكل مدفونة بدون التنقيب."
+        }
+      }
+    },
+    {
+      "id": "test-question-2",
+      "question": {
+        "id": "question-2",
+        "text": {
+          "default": "What is the name of the new capital that Sargon II started building around 700 BC?",
+          "translation": "ما اسم العاصمة الجديدة التي بدأ سرجون الثاني بناءها حوالي عام 700 قبل الميلاد؟"
+        }
+      },
+      "options": [
+        {
+          "id": "option-1",
+          "text": {
+            "default": "Dur-Sharrukin",
+            "translation": "دور شروكين"
+          }
+        },
+        {
+          "id": "option-2",
+          "text": {
+            "default": "Nineveh",
+            "translation": "نينوى"
+          }
+        },
+        {
+          "id": "option-3",
+          "text": {
+            "default": "Khorsabad",
+            "translation": "خورساباد"
+          }
+        },
+        {
+          "id": "option-4",
+          "text": {
+            "default": "Babylon",
+            "translation": "بابل"
+          }
+        }
+      ],
+      "correctOptionId": "option-1",
+      "explanation": {
+        "id": "explanation-2",
+        "text": {
+          "default": "Sargon II started building the new capital, Dur-Sharrukin ('Fortress of Sargon'), around 700 BC.",
+          "translation": "بدأ سرجون الثاني ببناء العاصمة الجديدة، دور شروكين ('قلعة سرجون')، حوالي عام 700 قبل الميلاد."
+        }
+      }
+    }
+  ]
+}
