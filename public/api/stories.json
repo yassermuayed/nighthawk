@@ -14,5 +14,36 @@
     "locations": [{ "country": "United States", "place": "New York" }],
     "date": "2020-01-01",
     "sources": ["https://www.englishpod"]
+  },
+  {
+    "id": 1,
+    "url": "https://example.com/tunguska-event-1908",
+    "cover": "https://www.nasa.gov/wp-content/uploads/2023/07/tunguska-8-chelaybinsk-meteor-2013-the-planetary-society.jpg",
+    "title": {
+      "default": "The Tunguska Event: A Cosmic Disaster",
+      "translation": "حدث تونغوسكا: كارثة كونية"
+    },
+    "description": "On June 30, 1908, a cosmic event in Siberia shook the Earth, leaving behind a mystery and a legacy that still influences planetary defense efforts today.",
+    "tags": [
+      "Tunguska",
+      "Asteroids",
+      "Cosmic Impacts",
+      "Planetary Defense",
+      "Siberia",
+      "Space Exploration"
+    ],
+    "level": 3, 
+    "words": 1050, 
+    "locations": [
+      {
+        "country": "Russia",
+        "place": "Siberia",
+        "coordinates": "60.9° N, 101.9° E"
+      }
+    ],
+    "date": "2025-01-01",
+    "sources": [
+      "https://www.nasa.gov/history/115-years-ago-the-tunguska-asteroid-impact-event/"
+    ]
   }
 ]

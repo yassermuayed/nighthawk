@@ -1,0 +1,123 @@
+{
+  "storyId": "2",
+  "title": {
+    "default": "The Tunguska Mystery: Earth’s Greatest Asteroid Explosion",
+    "translation": "لغز تونغوسكا: أعظم انفجار كويكبي على الأرض"
+  },
+  "content": [
+    {
+      "id": "paragraph1",
+      "text": {
+        "default": "On the morning of June 30, 1908, an asteroid entered Earth’s atmosphere and exploded over Siberia, causing widespread devastation in one of the world’s most remote regions. Witnesses among the local Evenki people described a fiery object streaking across the sky, a flash brighter than the Sun, and a thunderous explosion. Some reported being thrown into the air and knocked unconscious, while others saw their homes destroyed. Although the event caused few human casualties due to the area's sparse population, it decimated reindeer herds and flattened trees across an estimated 830 square miles. Scientists later determined the asteroid, around 130 feet wide, detonated roughly six miles above the ground, releasing energy equivalent to a large nuclear bomb.",
+        "translation": "في صباح يوم 30 يونيو 1908، دخل كويكب إلى الغلاف الجوي للأرض وانفجر فوق سيبيريا، مما تسبب في دمار واسع النطاق في واحدة من أكثر المناطق نائية في العالم. وصف الشهود من شعب إيفينكي المحلي رؤية جسم ناري يشق السماء، وسطوعًا أقوى من الشمس، وانفجارًا مدويًا. أفاد البعض بأنهم قُذفوا في الهواء وفقدوا وعيهم، بينما شاهد آخرون منازلهم مدمرة. وعلى الرغم من أن الحدث تسبب في عدد قليل من الإصابات البشرية نظرًا لانخفاض الكثافة السكانية في المنطقة، إلا أنه أدى إلى إبادة قطعان الرنة وسحق الأشجار على مساحة تقدر بحوالي 830 ميلًا مربعًا. وقد حدد العلماء لاحقًا أن الكويكب، الذي بلغ عرضه حوالي 130 قدمًا، انفجر على ارتفاع حوالي ستة أميال فوق سطح الأرض، مطلقًا طاقة تعادل قنبلة نووية كبيرة."
+      }
+    },
+    {
+      "id": "paragraph2",
+      "text": {
+        "default": "Despite its scale, the Tunguska event received little attention at the time. The remoteness of the site, coupled with political upheavals such as World War I and the Russian Revolution, delayed scientific investigation until 1927. Geologist Leonid A. Kulik led the first expedition to the area, where he documented the extensive damage: millions of trees toppled outward from the blast center, their branches stripped bare, with some evidence of burning. While no fragments of the asteroid were found—likely because it disintegrated in mid-air—microscopic extraterrestrial particles confirmed its origin. Today, most scientists agree the Tunguska explosion was caused by an asteroid rather than a comet.",
+        "translation": "على الرغم من حجمه الكبير، إلا أن حدث تونغوسكا لم يحظَ باهتمام كبير في ذلك الوقت. فقد أدت عزلة الموقع، جنبًا إلى جنب مع الاضطرابات السياسية مثل الحرب العالمية الأولى والثورة الروسية، إلى تأخير التحقيق العلمي حتى عام 1927. قاد الجيولوجي ليونيد أ. كوليك أول بعثة إلى المنطقة، حيث وثق الدمار الواسع: ملايين الأشجار التي سقطت بعيدًا عن مركز الانفجار، وفروعها المجردة، مع بعض الأدلة على الاحتراق. وعلى الرغم من عدم العثور على أي شظايا من الكويكب - ربما لأنه تحلل في الجو - فقد أكدت الجسيمات المجهرية ذات الأصل خارج الأرض مصدره. واليوم، يتفق معظم العلماء على أن انفجار تونغوسكا كان نتيجة لكويكب وليس مذنبًا."
+      }
+    },
+    {
+      "id": "paragraph3",
+      "text": {
+        "default": "Earth has experienced similar cosmic impacts throughout its history, leaving behind geological and archeological evidence. One of the most catastrophic occurred 65 million years ago when a six-mile-wide asteroid struck near modern-day Mexico, forming the Chicxulub crater and triggering a mass extinction that wiped out 75% of Earth’s species, including the dinosaurs. More recently, about 50,000 years ago, a 165-foot-wide asteroid created Meteor Crater in Arizona. Archeological evidence suggests even more recent impacts, such as a cometary event around 12,800 years ago that may have contributed to global cooling during the Younger Dryas period. In the ancient city of Tall el-Hammam, located in present-day Jordan, researchers have found signs of a devastating airburst around 1650 BCE, which likely obliterated the city and surrounding settlements, leaving the area uninhabited for centuries.",
+        "translation": "لقد شهدت الأرض تأثيرات كونية مماثلة على مدار تاريخها، تاركة وراءها أدلة جيولوجية وأثرية. وقع أحد أكثر هذه التأثيرات كارثية قبل 65 مليون سنة عندما اصطدم كويكب بعرض ستة أميال بالقرب من ما يُعرف الآن بالمكسيك، مكونًا فوهة تشيكشولوب وتسبب في انقراض جماعي قضى على 75% من أنواع الأرض، بما في ذلك الديناصورات. وفي وقت أكثر حداثة، قبل حوالي 50,000 عام، أحدث كويكب بعرض 165 قدمًا فوهة نيزكية في أريزونا. وتشير الأدلة الأثرية إلى تأثيرات أكثر حداثة، مثل حدث مذنبي وقع قبل حوالي 12,800 عام قد يكون ساهم في التبريد العالمي خلال فترة يونغر درياس. وفي المدينة القديمة تل الحمام، الواقعة في الأردن الحالي، وجد الباحثون أدلة على انفجار جوي مدمر حوالي 1650 قبل الميلاد، مما أدى على الأرجح إلى تدمير المدينة والمستوطنات المحيطة بها، تاركًا المنطقة غير مأهولة لعدة قرون."
+      }
+    },
+    {
+      "id": "paragraph4",
+      "text": {
+        "default": "Recent cosmic events have underscored the ongoing threat posed by Near-Earth Objects (NEOs). In 1994, fragments of Comet Shoemaker-Levy 9 collided with Jupiter, showcasing the destructive power of such impacts. Closer to home, a 66-foot-wide asteroid exploded over Chelyabinsk, Russia, in 2013, injuring over 1,500 people and damaging thousands of buildings. In response to these risks, NASA established the Planetary Defense Coordination Office (PDCO) in 2016 to identify and monitor NEOs that could threaten Earth and to develop strategies for planetary defense.",
+        "translation": "أكدت الأحداث الكونية الأخيرة على التهديد المستمر الذي تشكله الأجسام القريبة من الأرض (NEOs). في عام 1994، اصطدمت شظايا من مذنب شوماخر-ليفي 9 بكوكب المشتري، مما أظهر القوة التدميرية لمثل هذه الاصطدامات. وعلى مقربة من الأرض، انفجر كويكب بعرض 66 قدمًا فوق تشيليابينسك، روسيا، في عام 2013، مما أدى إلى إصابة أكثر من 1,500 شخص وإلحاق أضرار بآلاف المباني. استجابةً لهذه المخاطر، أنشأت ناسا مكتب تنسيق الدفاع الكوكبي (PDCO) في عام 2016 لتحديد ومراقبة الأجسام القريبة من الأرض التي قد تهدد الأرض وتطوير استراتيجيات للدفاع الكوكبي."
+      }
+    },
+    {
+      "id": "paragraph5",
+      "text": {
+        "default": "One of the PDCO’s most significant achievements was the Double Asteroid Redirection Test (DART), a mission designed to test asteroid deflection technology. Launched in November 2021, DART targeted the binary asteroid system Didymos and its smaller companion Dimorphos. On September 26, 2022, the spacecraft collided with Dimorphos at 14,000 miles per hour, altering its orbit by 32 minutes—far exceeding expectations and demonstrating the effectiveness of kinetic impact as a planetary defense method. Observations of the collision and its aftermath, captured by Earth-based telescopes and the Hubble Space Telescope, confirmed the success of the mission.",
+        "translation": "كان أحد أبرز إنجازات مكتب تنسيق الدفاع الكوكبي (PDCO) هو اختبار إعادة توجيه الكويكبات المزدوج (DART)، وهي مهمة مصممة لاختبار تقنية تحويل مسار الكويكبات. أُطلقت المهمة في نوفمبر 2021، واستهدفت نظام الكويكب الثنائي ديديموس ورفيقه الأصغر ديمورفوس. في 26 سبتمبر 2022، اصطدمت المركبة الفضائية بديمورفوس بسرعة 14,000 ميل في الساعة، مما غير مداره بمقدار 32 دقيقة - متجاوزة التوقعات بشكل كبير ومظهرة فعالية التأثير الحركي كطريقة للدفاع الكوكبي. أكدت الملاحظات التي التقطتها التلسكوبات الأرضية وتلسكوب هابل الفضائي نجاح المهمة."
+      }
+    },
+    {
+      "id": "paragraph6",
+      "text": {
+        "default": "The PDCO continues to track NEOs and refine mitigation strategies. Over the past month, seven objects passed within the Moon’s orbit without incident. In April 2023, NASA released a strategic planetary defense plan, emphasizing ongoing observation and technological readiness. As Planetary Defense Officer Lindley Johnson stated, “A collision of a NEO with Earth is the only natural disaster we now know how humanity could completely prevent. We must keep searching for what we know is still out there, and we must continue to research and test Planetary Defense technologies that could one day protect our planet’s inhabitants from a devastating event.”",
+        "translation": "يواصل مكتب تنسيق الدفاع الكوكبي (PDCO) تتبع الأجسام القريبة من الأرض وتحسين استراتيجيات التخفيف. خلال الشهر الماضي، مرت سبعة أجسام ضمن مدار القمر دون وقوع حوادث. في أبريل 2023، أصدرت ناسا خطة استراتيجية للدفاع الكوكبي، تؤكد على المراقبة المستمرة والاستعداد التكنولوجي. كما قال ليندلي جونسون، مسؤول الدفاع الكوكبي في ناسا: \"إن اصطدام جسم قريب من الأرض بالأرض هو الكارثة الطبيعية الوحيدة التي نعرف الآن أن البشرية يمكنها منعها تمامًا. يجب أن نواصل البحث عما نعرف أنه لا يزال هناك، ويجب أن نستمر في البحث واختبار تقنيات وقدرات الدفاع الكوكبي التي قد تحمي يومًا سكان كوكبنا من حدث مدمر.\""
+      }
+    }
+  ],
+  "images": [
+    {
+      "id": "image-1",
+      "type": "image",
+      "url": "https://www.nasa.gov/wp-content/uploads/2023/06/tunguska-1-russia-cia-wfb-map-tunguska-wikipedia.png",
+      "alt": "Image 1",
+      "description": {
+        "default": "Modren map of russian showing Tunguska region",
+        "translation": "خريطة حديثة لروسيا تظهر منطقة تونغوسكا"
+      }
+    },
+    {
+      "id": "image-2",
+      "type": "image",
+      "url": "https://www.nasa.gov/wp-content/uploads/2023/07/tunguska-3-kulik-expedition-photo.jpg",
+      "alt": "Image 2",
+      "description": {
+        "default": "Leonid Kulik's expedition to Tunguska in 1927",
+        "translation": "بعثة ليونيد كوليك إلى تونغوسكا في عام 1927"
+      }
+    }
+  ],
+  "testQuestions": [
+    {
+      "id": "tunguskaEventQuestion1",
+      "question": {
+        "id": "tunguskaEventParagraph",
+        "text": {
+          "default": "What caused the Tunguska event in 1908?",
+          "translation": "ما الذي تسبب في حدث تونغوسكا في عام 1908؟"
+        }
+      },
+      "options": [
+        {
+          "id": "option1",
+          "text": {
+            "default": "A volcanic eruption",
+            "translation": "انفجار بركاني"
+          }
+        },
+        {
+          "id": "option2",
+          "text": {
+            "default": "A meteorite impact",
+            "translation": "اصطدام نيزك"
+          }
+        },
+        {
+          "id": "option3",
+          "text": {
+            "default": "An asteroid explosion",
+            "translation": "انفجار كويكب"
+          }
+        },
+        {
+          "id": "option4",
+          "text": {
+            "default": "A comet collision",
+            "translation": "اصطدام مذنب"
+          }
+        }
+      ],
+      "correctOptionId": "option3",
+      "explanation": {
+        "id": "tunguskaExplanation",
+        "text": {
+          "default": "The Tunguska event was caused by an asteroid explosion above Siberia in 1908.",
+          "translation": "حدث تونغوسكا تسبب في انفجار كويكب فوق سيبيريا في عام 1908."
+        }
+      }
+    }
+  ]
+}
