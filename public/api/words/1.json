@@ -1,0 +1,810 @@
+[
+  {
+    "word": "a",
+    "meaning": "an indefinite article used to indicate a noun or noun phrase",
+    "example": "the apple",
+    "translation": "ا",
+    "note": "used as an indefinite article in English to refer to a specific thing without specifying what it is",
+    "partOfSpeech": "article"
+  },
+  {
+    "word": "about",
+    "meaning": "relating to or concerning something",
+    "example": "This movie is about a group of friends who travel the world.",
+    "translation": "حول",
+    "note": null,
+    "partOfSpeech": "preposition"
+  },
+  {
+    "word": "all",
+    "meaning": "completely, entire",
+    "example": "I have all the necessary materials.",
+    "translation": "كل",
+    "note": null,
+    "partOfSpeech": "adverb"
+  },
+  {
+    "word": "also",
+    "meaning": "in addition to something else; also",
+    "example": "I like coffee and tea.",
+    "translation": "ايضا",
+    "note": null,
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "word": "and",
+    "meaning": "a conjunction used to connect words, phrases, or clauses in a sentence",
+    "example": "I like and hate coffee.",
+    "translation": "و",
+    "note": null,
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "word": "as",
+    "meaning": "in the same manner, degree or amount as something else.",
+    "example": "He plays soccer as well as basketball.",
+    "translation": "كما",
+    "note": null,
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "word": "at",
+    "meaning": "in a location or position; on something",
+    "example": "She put her book at the top of the shelf.",
+    "translation": "على",
+    "note": "Preposition of place, indicating location or direction.",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "word": "be",
+    "meaning": "to exist or have a quality",
+    "example": "She is a good singer.",
+    "translation": "كون",
+    "note": null,
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "because",
+    "meaning": "reason or cause for something",
+    "example": "I'm going to the movies because I want to see a new movie.",
+    "translation": "لأن",
+    "note": null,
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "word": "but",
+    "meaning": "used to indicate a contrast or exception, often used to introduce a negative statement.",
+    "example": "I wanted to go, but I had other plans.",
+    "translation": "لكن",
+    "note": null,
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "word": "by",
+    "meaning": "with the help of or using something as an instrument",
+    "example": "The teacher used a ruler by her side to measure the length of the paper.",
+    "translation": "بواسطة",
+    "note": null,
+    "partOfSpeech": "preposition"
+  },
+  {
+    "word": "can",
+    "meaning": "capable of being used for a particular purpose",
+    "example": "She can sing beautifully.",
+    "translation": "يستطيع",
+    "note": "can is used to indicate ability or capability",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "come",
+    "meaning": "to move towards someone or something",
+    "example": "She will come to the party tonight.",
+    "translation": "يأتي",
+    "note": null,
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "could",
+    "meaning": "can or may be done",
+    "example": "She could speak English fluently.",
+    "translation": "يمكن",
+    "note": "Used to express possibility or ability",
+    "partOfSpeech": "auxiliary verb"
+  },
+  {
+    "word": "day",
+    "meaning": "a period of time between sunrise and sunset, especially as a unit of time used in calendars.",
+    "example": "I love spending my days at the beach.",
+    "translation": "يوم",
+    "note": "None",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "do",
+    "meaning": "to accomplish or perform something",
+    "example": "She has to do her homework tonight.",
+    "translation": "يفعل",
+    "note": null,
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "even",
+    "meaning": "being equal in amount, degree, or value",
+    "example": "She has an even smile.",
+    "translation": "متعادل",
+    "note": null,
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "find",
+    "meaning": "to discover or locate something",
+    "example": "She will find the book on the shelf.",
+    "translation": "إيجاد",
+    "note": null,
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "first",
+    "meaning": "initial or primary in order, time, or degree",
+    "example": "The first day of school was a big success.",
+    "translation": "أول",
+    "note": null,
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "for",
+    "meaning": "used to indicate purpose or intention",
+    "example": "I'm doing this for you",
+    "translation": "ل",
+    "note": null,
+    "partOfSpeech": "preposition"
+  },
+  {
+    "word": "from",
+    "meaning": "originating from a place or person",
+    "example": "I am from New York.",
+    "translation": "من",
+    "note": null,
+    "partOfSpeech": "preposition"
+  },
+  {
+    "word": "get",
+    "meaning": "to obtain or acquire something",
+    "example": "I will get a coffee from the café.",
+    "translation": "يحصل",
+    "note": null,
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "give",
+    "meaning": "to provide or supply something to someone or something",
+    "example": "Can you give me a cup of water?",
+    "translation": "يعطي",
+    "note": null,
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "go",
+    "meaning": "to move or travel from one place to another",
+    "example": "I want to go to the store.",
+    "translation": "يذهب",
+    "note": "Can be a command or an action verb",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "have",
+    "meaning": "to possess or hold something",
+    "example": "I have a dog.",
+    "translation": "يملك",
+    "note": null,
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "he",
+    "meaning": "a person considered as the subject of a sentence or clause, especially when referring to himself or herself",
+    "example": "John is he.",
+    "translation": "هو",
+    "note": null,
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "word": "her",
+    "meaning": "relating to or characteristic of a female person or animal; belonging to her; intended for or affecting only females",
+    "example": "The dress was designed for her.",
+    "translation": "هي",
+    "note": null,
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "word": "aziza",
+    "meaning": "Beloved or dear one",
+    "example": "She is my aziza.",
+    "translation": "أزيزة",
+    "note": null,
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "him",
+    "meaning": "the person or animal referred to by the pronoun he or she",
+    "example": "He is a great friend of his.",
+    "translation": "هو",
+    "note": null,
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "word": "his",
+    "meaning": "belonging to him",
+    "example": "That's his car.",
+    "translation": "له",
+    "note": null,
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "word": "how",
+    "meaning": "in what way or manner",
+    "example": "I want to know how you did it.",
+    "translation": "كيف",
+    "note": null,
+    "partOfSpeech": "adverb"
+  },
+  {
+    "word": "why",
+    "meaning": "to what end or purpose",
+    "example": "I'm not sure why I feel this way.",
+    "translation": "لماذا",
+    "note": null,
+    "partOfSpeech": "adverb"
+  },
+  {
+    "word": "I",
+    "meaning": "",
+    "example": "This is a sentence with the word I.",
+    "translation": "أنا",
+    "note": null,
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "word": "if",
+    "meaning": "used to indicate a condition or circumstance",
+    "example": "I will go if the weather permits.",
+    "translation": "إذا",
+    "note": null,
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "word": "in",
+    "meaning": "within or inside something; being contained within a surface",
+    "example": "She looked in the mirror.",
+    "translation": "في",
+    "note": null,
+    "partOfSpeech": "preposition"
+  },
+  {
+    "word": "into",
+    "meaning": "in a place where something is or is put into",
+    "example": "She put the book into the bag.",
+    "translation": "في",
+    "note": null,
+    "partOfSpeech": null
+  },
+  {
+    "word": "it",
+    "meaning": "an object, person, or thing",
+    "example": "She is reading it.",
+    "translation": "هو",
+    "note": null,
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "word": "its",
+    "meaning": "belonging to it or its possessive pronoun",
+    "example": "The cat chases its tail.",
+    "translation": "له",
+    "note": null,
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "word": "just",
+    "meaning": "correct, fair, reasonable, appropriate",
+    "example": "She felt that the punishment was just.",
+    "translation": "فقط",
+    "note": "Can be used as an adjective or adverb.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "know",
+    "meaning": "to be aware of or to have knowledge of something",
+    "example": "I know how to ride a bike.",
+    "translation": "يعرف",
+    "note": null,
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "like",
+    "meaning": "to have a preference for something",
+    "example": "I like ice cream",
+    "translation": "أحب",
+    "note": null,
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "look",
+    "meaning": "to see or glance at something",
+    "example": "She took a look around the room.",
+    "translation": "نظرة",
+    "note": null,
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "make",
+    "meaning": "to produce or create something",
+    "example": "She makes a great cup of coffee.",
+    "translation": "يحفظ",
+    "note": null,
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "man",
+    "meaning": "an adult male human being",
+    "example": "a tall man with a beard entered the restaurant",
+    "translation": "رجل",
+    "note": null,
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "many",
+    "meaning": "a large or numerous quantity of something",
+    "example": "I have many books on my shelf.",
+    "translation": "كثير",
+    "note": null,
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "me",
+    "meaning": "belonging to or identified with the speaker or addressee of a sentence, question, or utterance",
+    "example": "I'm going to the store for me and my friend.",
+    "translation": "أنا",
+    "note": null,
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "word": "more",
+    "meaning": "a greater amount or degree",
+    "example": "I need more milk.",
+    "translation": "أكثر",
+    "note": null,
+    "partOfSpeech": "adverb"
+  },
+  {
+    "word": "my",
+    "meaning": "belonging to me",
+    "example": "That's my book.",
+    "translation": "لي",
+    "note": null,
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "word": "new",
+    "meaning": "recently created or experienced; existing for the first time",
+    "example": "I just got a new phone.",
+    "translation": "جديد",
+    "note": null,
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "no",
+    "meaning": "used to indicate refusal or denial",
+    "example": "I don't want to go.",
+    "translation": "لا",
+    "note": null,
+    "partOfSpeech": "adverb"
+  },
+  {
+    "word": "not",
+    "meaning": "used for negation, opposite of something",
+    "example": "I don't like ice cream.",
+    "translation": "لا",
+    "note": null,
+    "partOfSpeech": "adverb"
+  },
+  {
+    "word": "now",
+    "meaning": "at this time, present moment",
+    "example": "I will meet you now.",
+    "translation": "الآن",
+    "note": null,
+    "partOfSpeech": "adverb"
+  },
+  {
+    "word": "of",
+    "meaning": "used to indicate a relationship of involvement, possession, or origin.",
+    "example": "She is the daughter of John.",
+    "translation": "من",
+    "note": null,
+    "partOfSpeech": "preposition"
+  },
+  {
+    "word": "on",
+    "meaning": "being on something, having a position or location",
+    "example": "She placed the phone on the table.",
+    "translation": "على",
+    "note": null,
+    "partOfSpeech": "preposition"
+  },
+  {
+    "word": "one",
+    "meaning": "a single entity or unit of quantity, amount, etc.",
+    "example": "I need one apple for the pie.",
+    "translation": "واحد",
+    "note": null,
+    "partOfSpeech": "numeral"
+  },
+  {
+    "word": "only",
+    "meaning": "sole or exclusive",
+    "example": "She is the only one who can help.",
+    "translation": "فقط",
+    "note": "",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "word": "or",
+    "meaning": "used to indicate a choice between two or more things, to show that something is true, or to indicate a possibility",
+    "example": "Do you want coffee or tea?",
+    "translation": "أو",
+    "note": null,
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "word": "other",
+    "meaning": "not one of the others; unlike",
+    "example": "I want the other book.",
+    "translation": "آخر",
+    "note": null,
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "our",
+    "meaning": "belonging to us, something shared or enjoyed by a group of people",
+    "example": "We are going on vacation our week.",
+    "translation": "لنا",
+    "note": null,
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "out",
+    "meaning": "moving from a place or situation to another",
+    "example": "I'm going out for dinner.",
+    "translation": "خارج",
+    "note": null,
+    "partOfSpeech": "adverb"
+  },
+  {
+    "word": "people",
+    "meaning": "A group of human beings",
+    "example": "The people in the park were playing games.",
+    "translation": "ناس",
+    "note": null,
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "say",
+    "meaning": "to express or communicate something",
+    "example": "She says she's happy.",
+    "translation": "قال",
+    "note": null,
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "see",
+    "meaning": "to perceive with the eyes or to understand",
+    "example": "I can see the Eiffel Tower from here.",
+    "translation": "رؤية",
+    "note": null,
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "she",
+    "meaning": "the female subject of a sentence or the object of a verb",
+    "example": "She is going to the store.",
+    "translation": "هي",
+    "note": null,
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "word": "so",
+    "meaning": "used to indicate agreement or confirmation, especially when talking about something that is obvious or has already been mentioned.",
+    "example": "That's so cool!",
+    "translation": "حتى",
+    "note": null,
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "word": "some",
+    "meaning": "a small amount or quantity",
+    "example": "I ate some food for breakfast.",
+    "translation": "بعض",
+    "note": null,
+    "partOfSpeech": "determiner/interrogative pronoun"
+  },
+  {
+    "word": "take",
+    "meaning": "to receive something given to you, or to move your hand towards something",
+    "example": "Can I take my phone?",
+    "translation": "أخذ",
+    "note": null,
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "tell",
+    "meaning": "to communicate or share information verbally",
+    "example": "She told me about her new job.",
+    "translation": "اخبر",
+    "note": null,
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "than",
+    "meaning": "used for comparison",
+    "example": "He is taller than I am.",
+    "translation": "من",
+    "note": null,
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "word": "that",
+    "meaning": "used to introduce a person or thing",
+    "example": "I like that book.",
+    "translation": "",
+    "note": null,
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "word": "the",
+    "meaning": "a definite article used to refer to a specific person, place, or thing",
+    "example": "I want the book on the table.",
+    "translation": "ال",
+    "note": null,
+    "partOfSpeech": "article"
+  },
+  {
+    "word": "their",
+    "meaning": "belonging to them, used as possessive pronoun after a singular or plural noun",
+    "example": "Their car is red.",
+    "translation": "لهم",
+    "note": null,
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "word": "them",
+    "meaning": "people or things regarded as the subject of a sentence",
+    "example": "They are going to the store.",
+    "translation": "هم",
+    "note": "Used for plural subjects or objects.",
+    "partOfSpeech": "Pronoun"
+  },
+  {
+    "word": "then",
+    "meaning": "in that case, next",
+    "example": "I'll meet you then.",
+    "translation": "ثم",
+    "note": null,
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "word": "there",
+    "meaning": "indicating a place or direction",
+    "example": "Put the book over there on the table.",
+    "translation": "هناك",
+    "note": null,
+    "partOfSpeech": "adverb"
+  },
+  {
+    "word": "these",
+    "meaning": "used to refer to things previously mentioned or easily identified",
+    "example": "I'm going to these movies with you.",
+    "translation": "هذه",
+    "note": null,
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "word": "they",
+    "meaning": "used to refer to people or animals, especially as a group of three or more",
+    "example": "She is going to meet them at the store.",
+    "translation": "هُمُ",
+    "note": null,
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "word": "thing",
+    "meaning": "a person, place, or thing of interest or importance",
+    "example": "The new smartphone is a great thing.",
+    "translation": "شيء",
+    "note": null,
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "think",
+    "meaning": "to consider or reflect on something carefully and wisely",
+    "example": "She takes a moment to think before making a decision.",
+    "translation": "يعتقد",
+    "note": "None",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "this",
+    "meaning": "Used to refer to something or someone near the speaker, a specific time or event, etc.",
+    "example": "Can you pass me this book?",
+    "translation": "هذا",
+    "note": null,
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "word": "those",
+    "meaning": "used to refer to a group of people or things that are already known or mentioned",
+    "example": "I want to go to those places I visited last year.",
+    "translation": "أولئك",
+    "note": null,
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "word": "time",
+    "meaning": "the measure of the duration between events or periods",
+    "example": "I have a meeting at 2 o'clock.",
+    "translation": "وقت",
+    "note": "a unit of time is usually measured in minutes, seconds or hours",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "to",
+    "meaning": "in the direction of or destination",
+    "example": "She's going to the store.",
+    "translation": "إلى",
+    "note": "preposition indicating direction or movement",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "word": "two",
+    "meaning": "a numerical value indicating the quantity of 2",
+    "example": "I have two apples.",
+    "translation": "اثنان",
+    "note": null,
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "up",
+    "meaning": "in a direction vertically upwards or to an upper position",
+    "example": "She walked up the stairs.",
+    "translation": "فوق",
+    "note": null,
+    "partOfSpeech": "adverb"
+  },
+  {
+    "word": "use",
+    "meaning": "to employ or utilize something for a particular purpose",
+    "example": "She will use the computer to finish her project.",
+    "translation": "استخدام",
+    "note": null,
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "very",
+    "meaning": "to a great degree or extent",
+    "example": "She is very happy.",
+    "translation": "جدا",
+    "note": null,
+    "partOfSpeech": "adverb"
+  },
+  {
+    "word": "want",
+    "meaning": "to have a desire or wish for something",
+    "example": "I want to go to the beach.",
+    "translation": "يريد",
+    "note": null,
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "way",
+    "meaning": "a path or route",
+    "example": "She chose her way through the forest.",
+    "translation": "طريق",
+    "note": "Can be a metaphor for life's journey or a method of doing something.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "we",
+    "meaning": "plural form of 'us'",
+    "example": "They are with us.",
+    "translation": "نحن",
+    "note": null,
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "word": "well",
+    "meaning": "in a good or satisfactory manner",
+    "example": "a source of fresh water",
+    "translation": "جيدا",
+    "note": null,
+    "partOfSpeech": "adverb"
+  },
+  {
+    "word": "what",
+    "meaning": "used to ask for information or explanation about something",
+    "example": "I want to know what's going on.",
+    "translation": "ماذا",
+    "note": null,
+    "partOfSpeech": "adverb"
+  },
+  {
+    "word": "when",
+    "meaning": "at what time",
+    "example": "I will meet you when the bus arrives.",
+    "translation": "متى",
+    "note": null,
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "word": "where",
+    "meaning": "used to ask for examples or specify which one",
+    "example": "Which book did you read?",
+    "translation": "أي",
+    "note": null,
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "word": "who",
+    "meaning": "a person or people",
+    "example": "Who is going to the party?",
+    "translation": "من",
+    "note": null,
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "word": "will",
+    "meaning": "future tense of 'can' or 'shall'",
+    "example": "I will go to the movies tonight.",
+    "translation": "سوف",
+    "note": null,
+    "partOfSpeech": "auxiliary verb"
+  },
+  {
+    "word": "with",
+    "meaning": "accompanied by",
+    "example": "She is with her friends.",
+    "translation": "مع",
+    "note": null,
+    "partOfSpeech": "preposition"
+  },
+  {
+    "word": "would",
+    "meaning": "past tense of will or could, used to express possibility or necessity",
+    "example": "I would have gone if I had known about it.",
+    "translation": "سوف",
+    "note": "can be replaced with 'could' in some cases",
+    "partOfSpeech": "auxiliary verb"
+  },
+  {
+    "word": "year",
+    "meaning": "A period of time that has passed or is about to pass, typically measured in years.",
+    "example": "I will celebrate my birthday next year.",
+    "translation": "السنة",
+    "note": null,
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "you",
+    "meaning": "the person or people being addressed or referred to",
+    "example": "How are you doing today?",
+    "translation": "أنت",
+    "note": "",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "word": "your",
+    "meaning": "belonging to you, indicating possession or belonging",
+    "example": "That is your book.",
+    "translation": "لك",
+    "note": null,
+    "partOfSpeech": "Pronoun"
+  }
+]
