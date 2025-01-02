@@ -13,94 +13,188 @@
     {
       "id": "1",
       "question": {
-        "id": "tunguskaEventParagraph",
+        "id": "subjectVerbAgreement",
         "text": {
-          "default": "What caused the Tunguska event in 1908?",
-          "translation": "ما الذي تسبب في حدث تونغوسكا في عام 1908؟"
+          "default": "Which sentence correctly demonstrates subject-verb agreement?",
+          "translation": "أي جملة توضح توافق الفعل مع الفاعل بشكل صحيح؟"
         }
       },
       "options": [
         {
           "id": "1",
           "text": {
-            "default": "A volcanic eruption",
-            "translation": "انفجار بركاني"
+            "default": "The team are winning the match.",
+            "translation": "الفريق يفوز بالمباراة."
           }
         },
         {
           "id": "2",
           "text": {
-            "default": "A meteorite impact",
-            "translation": "اصطدام نيزك"
+            "default": "The team is winning the match.",
+            "translation": "الفريق يفوز بالمباراة."
           }
         },
         {
           "id": "3",
           "text": {
-            "default": "An asteroid explosion",
-            "translation": "انفجار كويكب"
+            "default": "The team has winning the match.",
+            "translation": "الفريق يفوز بالمباراة."
           }
         },
         {
           "id": "4",
           "text": {
-            "default": "A comet collision",
-            "translation": "اصطدام مذنب"
+            "default": "The team was winning the match.",
+            "translation": "الفريق كان يفوز بالمباراة."
           }
         }
       ],
-      "correctOptionId": "3",
+      "correctOptionId": "2",
       "explanation": {
         "text": {
-          "default": "The Tunguska event was caused by an asteroid explosion above Siberia in 1908.",
-          "translation": "حدث تونغوسكا تسبب في انفجار كويكب فوق سيبيريا في عام 1908."
+          "default": "In English, singular collective nouns like 'team' take a singular verb. Therefore, 'The team is winning the match.' is correct.",
+          "translation": "في اللغة الإنجليزية، الأسماء الجماعية المفردة مثل 'الفريق' تأخذ فعلاً مفرداً. لذلك، الجملة الصحيحة هي 'الفريق يفوز بالمباراة.'"
         }
       }
     },
     {
       "id": "2",
       "question": {
-        "id": "question2",
+        "id": "correctPrepositionUsage",
         "text": {
-          "default": "What caused the Tunguska event in 1908?",
-          "translation": "ما الذي تسبب في حدث تونغوسكا في عام 1908؟"
+          "default": "Which sentence uses the correct preposition?",
+          "translation": "أي جملة تستخدم حرف الجر الصحيح؟"
         }
       },
       "options": [
         {
           "id": "1",
           "text": {
-            "default": "A volcanic eruption",
-            "translation": "انفجار بركاني"
+            "default": "She is good in playing the piano.",
+            "translation": "هي جيدة في عزف البيانو."
           }
         },
         {
           "id": "2",
           "text": {
-            "default": "A meteorite impact",
-            "translation": "اصطدام نيزك"
+            "default": "She is good at playing the piano.",
+            "translation": "هي جيدة في عزف البيانو."
           }
         },
         {
           "id": "3",
           "text": {
-            "default": "An asteroid explosion",
-            "translation": "انفجار كويكب"
+            "default": "She is good on playing the piano.",
+            "translation": "هي جيدة في عزف البيانو."
           }
         },
         {
           "id": "4",
           "text": {
-            "default": "A comet collision",
-            "translation": "اصطدام مذنب"
+            "default": "She is good with playing the piano.",
+            "translation": "هي جيدة في عزف البيانو."
           }
         }
       ],
-      "correctOptionId": "3",
+      "correctOptionId": "2",
       "explanation": {
         "text": {
-          "default": "The Tunguska event was caused by an asteroid explosion above Siberia in 1908.",
-          "translation": "حدث تونغوسكا تسبب في انفجار كويكب فوق سيبيريا في عام 1908."
+          "default": "The correct preposition to use with 'good' in this context is 'at.' The sentence 'She is good at playing the piano.' is correct.",
+          "translation": "حرف الجر الصحيح للاستخدام مع 'جيد' في هذا السياق هو 'في'. الجملة الصحيحة هي 'هي جيدة في عزف البيانو.'"
+        }
+      }
+    },
+    {
+      "id": "3",
+      "question": {
+        "id": "presentPerfectUsage",
+        "text": {
+          "default": "Which sentence correctly uses the present perfect tense?",
+          "translation": "أي جملة تستخدم صيغة المضارع التام بشكل صحيح؟"
+        }
+      },
+      "options": [
+        {
+          "id": "1",
+          "text": {
+            "default": "She has went to the market.",
+            "translation": "لقد ذهبت إلى السوق."
+          }
+        },
+        {
+          "id": "2",
+          "text": {
+            "default": "She has gone to the market.",
+            "translation": "لقد ذهبت إلى السوق."
+          }
+        },
+        {
+          "id": "3",
+          "text": {
+            "default": "She go to the market.",
+            "translation": "هي تذهب إلى السوق."
+          }
+        },
+        {
+          "id": "4",
+          "text": {
+            "default": "She is gone to the market.",
+            "translation": "هي ذهبت إلى السوق."
+          }
+        }
+      ],
+      "correctOptionId": "2",
+      "explanation": {
+        "text": {
+          "default": "The present perfect tense is formed with 'has/have' followed by the past participle of the verb. The correct sentence is 'She has gone to the market.'",
+          "translation": "صيغة المضارع التام تتكون من 'has/have' يليها التصريف الثالث للفعل. الجملة الصحيحة هي 'لقد ذهبت إلى السوق.'"
+        }
+      }
+    },
+    {
+      "id": "4",
+      "question": {
+        "id": "subjectVerbAgreement",
+        "text": {
+          "default": "Which sentence correctly demonstrates subject-verb agreement?",
+          "translation": "أي جملة توضح توافق الفعل مع الفاعل بشكل صحيح؟"
+        }
+      },
+      "options": [
+        {
+          "id": "1",
+          "text": {
+            "default": "The team are winning the match.",
+            "translation": "الفريق يفوز بالمباراة."
+          }
+        },
+        {
+          "id": "2",
+          "text": {
+            "default": "The team is winning the match.",
+            "translation": "الفريق يفوز بالمباراة."
+          }
+        },
+        {
+          "id": "3",
+          "text": {
+            "default": "The team has winning the match.",
+            "translation": "الفريق يفوز بالمباراة."
+          }
+        },
+        {
+          "id": "4",
+          "text": {
+            "default": "The team was winning the match.",
+            "translation": "الفريق كان يفوز بالمباراة."
+          }
+        }
+      ],
+      "correctOptionId": "2",
+      "explanation": {
+        "text": {
+          "default": "In English, singular collective nouns like 'team' take a singular verb. Therefore, 'The team is winning the match.' is correct.",
+          "translation": "في اللغة الإنجليزية، الأسماء الجماعية المفردة مثل 'الفريق' تأخذ فعلاً مفرداً. لذلك، الجملة الصحيحة هي 'الفريق يفوز بالمباراة.'"
         }
       }
     }
@@ -116,7 +210,7 @@
         "default": "The first page of the test.",
         "translation": "الصفحة الأولى من الاختبار."
       },
-      "questions": [1]
+      "questions": [1, 2]
     },
     {
       "id": 2,
@@ -128,7 +222,7 @@
         "default": "The second page of the test.",
         "translation": "الصفحة الثانية من الاختبار."
       },
-      "questions": [2]
+      "questions": [3, 4]
     }
   ],
   "level": 1
