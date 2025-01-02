@@ -1,23 +1,58 @@
 [
-    {
-      "id": 1,
-      "title": "introduction",
-      "description": "Introduction to English Grammar",
-      "image": "https://placehold.co/400",
-      "url": "/lessons/introduction"
+  {
+    "id": 1,
+    "title": {
+      "default": "English Grammar",
+      "translation": "قواعد اللغة الإنجليزية"
     },
-    {
-      "id": 2,
-      "title": "parts of speech",
-      "description": "Parts of Speech",
-      "image": "https://placehold.co/400",
-      "url": "/lessons/parts-of-speech"
+    "description": {
+      "default": "English Grammar Lessons",
+      "translation": "دروس قواعد اللغة الإنجليزية"
     },
-    {
-      "id": 3,
-      "title": "markdown demo",
-      "description": "Markdown Demo",
-      "image": "https://placehold.co/400",
-      "url": "/lessons/markdown-demo"
-    }
-  ]
+    "image": "https://placehold.co/400",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "introduction",
+        "description": "Introduction to English Grammar",
+        "image": "https://placehold.co/400",
+        "url": "/lessons/introduction"
+      },
+      {
+        "id": 2,
+        "title": "parts of speech",
+        "description": "Parts of Speech",
+        "image": "https://placehold.co/400",
+        "url": "/lessons/parts-of-speech"
+      },
+      {
+        "id": 3,
+        "title": "markdown demo",
+        "description": "Markdown Demo",
+        "image": "https://placehold.co/400",
+        "url": "/lessons/markdown-demo"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": {
+      "default": "Demo Group",
+      "translation": "مجموعة تجريبية"
+    },
+    "description": {
+      "default": "English Grammar Lessons",
+      "translation": "دروس قواعد اللغة الإنجليزية"
+    },
+    "image": "https://placehold.co/400",
+    "lessons": [
+      {
+        "id": 3,
+        "title": "markdown demo",
+        "description": "Markdown Demo",
+        "image": "https://placehold.co/400",
+        "url": "/lessons/markdown-demo"
+      }
+    ]
+  }
+]
