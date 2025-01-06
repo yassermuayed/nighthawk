@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "title": "Demo Test",
-    "description": "A demo test with two questions.",
+    "title": "Basic Evaluation Test",
+    "description": "Use this test to evaluate yourself and find out what to study next.",
     "image": "https://placehold.co/400",
     "url": "/test/1.json"
   }

@@ -1,229 +1,97 @@
 {
   "id": 1,
-  "title": {
-    "default": "Demo Test",
-    "translation": "اختبار تجريبي"
+  "quiz": {
+    "quizTitle": "Basic Evaluation Quiz",
+    "questions": [
+      {
+        "question": "How can you access the state of a component from inside of a member function?",
+        "questionType": "text",
+        "questionPic": "https://dummyimage.com/600x400/000/fff&text=X", // if you need to display Picture in Question
+        "answerSelectionType": "single",
+        "answers": [
+          "this.getState()",
+          "this.prototype.stateValue",
+          "this.state",
+          "this.values"
+        ],
+        "correctAnswer": "3",
+        "messageForCorrectAnswer": "Correct answer. Good job.",
+        "messageForIncorrectAnswer": "Incorrect answer. Please try again.",
+        "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "point": "20"
+      },
+      {
+        "question": "ReactJS is developed by _____?",
+        "questionType": "text",
+        "questionPic": "https://dummyimage.com/600x400/000/fff&text=X",
+        "answerSelectionType": "single",
+        "answers": ["Google Engineers", "Facebook Engineers"],
+        "correctAnswer": "2",
+        "messageForCorrectAnswer": "Correct answer. Good job.",
+        "messageForIncorrectAnswer": "Incorrect answer. Please try again.",
+        "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "point": "20"
+      },
+      {
+        "question": "ReactJS is an MVC based framework?",
+        "questionType": "text",
+        "answerSelectionType": "single",
+        "answers": ["True", "False"],
+        "correctAnswer": "2",
+        "messageForCorrectAnswer": "Correct answer. Good job.",
+        "messageForIncorrectAnswer": "Incorrect answer. Please try again.",
+        "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "point": "10"
+      },
+      {
+        "question": "Which of the following concepts is/are key to ReactJS?",
+        "questionType": "text",
+        "answerSelectionType": "single",
+        "answers": [
+          "Component-oriented design",
+          "Event delegation model",
+          "Both of the above"
+        ],
+        "correctAnswer": "3",
+        "messageForCorrectAnswer": "Correct answer. Good job.",
+        "messageForIncorrectAnswer": "Incorrect answer. Please try again.",
+        "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "point": "30"
+      },
+      {
+        "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,",
+        "questionType": "photo",
+        "answerSelectionType": "single",
+        "answers": [
+          "https://dummyimage.com/600x400/000/fff&text=A",
+          "https://dummyimage.com/600x400/000/fff&text=B",
+          "https://dummyimage.com/600x400/000/fff&text=C",
+          "https://dummyimage.com/600x400/000/fff&text=D"
+        ],
+        "correctAnswer": "1",
+        "messageForCorrectAnswer": "Correct answer. Good job.",
+        "messageForIncorrectAnswer": "Incorrect answer. Please try again.",
+        "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "point": "20"
+      },
+      {
+        "question": "What are the advantages of React JS?",
+        "questionType": "text",
+        "answerSelectionType": "multiple",
+        "answers": [
+          "React can be used on client and as well as server side too",
+          "Using React increases readability and makes maintainability easier. Component, Data patterns improves readability and thus makes it easier for manitaining larger apps",
+          "React components have lifecycle events that fall into State/Property Updates",
+          "React can be used with any other framework (Backbone.js, Angular.js) as it is only a view layer"
+        ],
+        "correctAnswer": [1, 2, 4],
+        "messageForCorrectAnswer": "Correct answer. Good job.",
+        "messageForIncorrectAnswer": "Incorrect answer. Please try again.",
+        "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "point": "20"
+      }
+    ]
   },
-  "description": {
-    "default": "This is a demo test.",
-    "translation": "هذا اختبار تجريبي."
-  },
-  "image": "https://placehold.co/400",
-  "questions": [
-    {
-      "id": "1",
-      "question": {
-        "id": "subjectVerbAgreement",
-        "text": {
-          "default": "Which sentence correctly demonstrates subject-verb agreement?",
-          "translation": "أي جملة توضح توافق الفعل مع الفاعل بشكل صحيح؟"
-        }
-      },
-      "options": [
-        {
-          "id": "1",
-          "text": {
-            "default": "The team are winning the match.",
-            "translation": "الفريق يفوز بالمباراة."
-          }
-        },
-        {
-          "id": "2",
-          "text": {
-            "default": "The team is winning the match.",
-            "translation": "الفريق يفوز بالمباراة."
-          }
-        },
-        {
-          "id": "3",
-          "text": {
-            "default": "The team has winning the match.",
-            "translation": "الفريق يفوز بالمباراة."
-          }
-        },
-        {
-          "id": "4",
-          "text": {
-            "default": "The team was winning the match.",
-            "translation": "الفريق كان يفوز بالمباراة."
-          }
-        }
-      ],
-      "correctOptionId": "2",
-      "explanation": {
-        "text": {
-          "default": "In English, singular collective nouns like 'team' take a singular verb. Therefore, 'The team is winning the match.' is correct.",
-          "translation": "في اللغة الإنجليزية، الأسماء الجماعية المفردة مثل 'الفريق' تأخذ فعلاً مفرداً. لذلك، الجملة الصحيحة هي 'الفريق يفوز بالمباراة.'"
-        }
-      }
-    },
-    {
-      "id": "2",
-      "question": {
-        "id": "correctPrepositionUsage",
-        "text": {
-          "default": "Which sentence uses the correct preposition?",
-          "translation": "أي جملة تستخدم حرف الجر الصحيح؟"
-        }
-      },
-      "options": [
-        {
-          "id": "1",
-          "text": {
-            "default": "She is good in playing the piano.",
-            "translation": "هي جيدة في عزف البيانو."
-          }
-        },
-        {
-          "id": "2",
-          "text": {
-            "default": "She is good at playing the piano.",
-            "translation": "هي جيدة في عزف البيانو."
-          }
-        },
-        {
-          "id": "3",
-          "text": {
-            "default": "She is good on playing the piano.",
-            "translation": "هي جيدة في عزف البيانو."
-          }
-        },
-        {
-          "id": "4",
-          "text": {
-            "default": "She is good with playing the piano.",
-            "translation": "هي جيدة في عزف البيانو."
-          }
-        }
-      ],
-      "correctOptionId": "2",
-      "explanation": {
-        "text": {
-          "default": "The correct preposition to use with 'good' in this context is 'at.' The sentence 'She is good at playing the piano.' is correct.",
-          "translation": "حرف الجر الصحيح للاستخدام مع 'جيد' في هذا السياق هو 'في'. الجملة الصحيحة هي 'هي جيدة في عزف البيانو.'"
-        }
-      }
-    },
-    {
-      "id": "3",
-      "question": {
-        "id": "presentPerfectUsage",
-        "text": {
-          "default": "Which sentence correctly uses the present perfect tense?",
-          "translation": "أي جملة تستخدم صيغة المضارع التام بشكل صحيح؟"
-        }
-      },
-      "options": [
-        {
-          "id": "1",
-          "text": {
-            "default": "She has went to the market.",
-            "translation": "لقد ذهبت إلى السوق."
-          }
-        },
-        {
-          "id": "2",
-          "text": {
-            "default": "She has gone to the market.",
-            "translation": "لقد ذهبت إلى السوق."
-          }
-        },
-        {
-          "id": "3",
-          "text": {
-            "default": "She go to the market.",
-            "translation": "هي تذهب إلى السوق."
-          }
-        },
-        {
-          "id": "4",
-          "text": {
-            "default": "She is gone to the market.",
-            "translation": "هي ذهبت إلى السوق."
-          }
-        }
-      ],
-      "correctOptionId": "2",
-      "explanation": {
-        "text": {
-          "default": "The present perfect tense is formed with 'has/have' followed by the past participle of the verb. The correct sentence is 'She has gone to the market.'",
-          "translation": "صيغة المضارع التام تتكون من 'has/have' يليها التصريف الثالث للفعل. الجملة الصحيحة هي 'لقد ذهبت إلى السوق.'"
-        }
-      }
-    },
-    {
-      "id": "4",
-      "question": {
-        "id": "subjectVerbAgreement",
-        "text": {
-          "default": "Which sentence correctly demonstrates subject-verb agreement?",
-          "translation": "أي جملة توضح توافق الفعل مع الفاعل بشكل صحيح؟"
-        }
-      },
-      "options": [
-        {
-          "id": "1",
-          "text": {
-            "default": "The team are winning the match.",
-            "translation": "الفريق يفوز بالمباراة."
-          }
-        },
-        {
-          "id": "2",
-          "text": {
-            "default": "The team is winning the match.",
-            "translation": "الفريق يفوز بالمباراة."
-          }
-        },
-        {
-          "id": "3",
-          "text": {
-            "default": "The team has winning the match.",
-            "translation": "الفريق يفوز بالمباراة."
-          }
-        },
-        {
-          "id": "4",
-          "text": {
-            "default": "The team was winning the match.",
-            "translation": "الفريق كان يفوز بالمباراة."
-          }
-        }
-      ],
-      "correctOptionId": "2",
-      "explanation": {
-        "text": {
-          "default": "In English, singular collective nouns like 'team' take a singular verb. Therefore, 'The team is winning the match.' is correct.",
-          "translation": "في اللغة الإنجليزية، الأسماء الجماعية المفردة مثل 'الفريق' تأخذ فعلاً مفرداً. لذلك، الجملة الصحيحة هي 'الفريق يفوز بالمباراة.'"
-        }
-      }
-    }
-  ],
-  "pages": [
-    {
-      "id": 1,
-      "title": {
-        "default": "Page 1",
-        "translation": "الصفحة 1"
-      },
-      "description": {
-        "default": "The first page of the test.",
-        "translation": "الصفحة الأولى من الاختبار."
-      },
-      "questions": [1, 2]
-    },
-    {
-      "id": 2,
-      "title": {
-        "default": "Page 2",
-        "translation": "الصفحة 2"
-      },
-      "description": {
-        "default": "The second page of the test.",
-        "translation": "الصفحة الثانية من الاختبار."
-      },
-      "questions": [3, 4]
-    }
-  ],
-  "level": 1
+  "shuffle": true,
+  "shuffleAnswer": true
 }
