@@ -123,102 +123,22 @@
       }
     }
   ],
-  "testQuestions": [
-    {
-      "id": "test-question-1",
-      "question": {
-        "id": "question-1",
-        "text": {
-          "default": "What does the device used in the survey detect to reveal buried structures?",
-          "translation": "ماذا يكتشف الجهاز المستخدم في المسح لكشف عن هياكل مدفونة؟"
+  "quiz": {
+    "quiz": {
+      "quizTitle": "Test Your Understanding",
+      "questions": [
+        {
+          "question": "Choose the correct word to complete the sentence: 'I ___ to the gym every morning.'",
+          "questionType": "text",
+          "answers": ["go", "goes", "going", "gone"],
+          "correctAnswer": "1",
+          "answerSelectionType": "single",
+          "messageForCorrectAnswer": "Correct! 'I' pairs with 'go' in the present tense.",
+          "messageForIncorrectAnswer": "Incorrect. The subject 'I' requires the base form 'go'.",
+          "explanation": "The verb 'go' remains in its base form when used with the subject 'I'.",
+          "point": "1"
         }
-      },
-      "options": [
-        {
-          "id": "option-1",
-          "text": {
-            "default": "Differences in temperature in the ground",
-            "translation": "اختلافات في الحرارة في الأرض"
-          }
-        },
-        {
-          "id": "option-2",
-          "text": {
-            "default": "Differences in magnetic properties in the ground",
-            "translation": "اختلافات في الخصائص المغناطيسية في الأرض"
-          }
-        },
-        {
-          "id": "option-3",
-          "text": {
-            "default": "Changes in sound waves underground",
-            "translation": "تغييرات في رسائل الصوت في الأرض"
-          }
-        },
-        {
-          "id": "option-4",
-          "text": {
-            "default": "Traces of water beneath the surface",
-            "translation": "علامات من الماء تحت الطاقة"
-          }
-        }
-      ],
-      "correctOptionId": "option-2",
-      "explanation": {
-        "id": "explanation-1",
-        "text": {
-          "default": "The device detects differences in magnetic properties in the ground, which helps reveal buried structures without excavation.",
-          "translation": "الجهاز يكتشف اختلافات في الخصائص المغناطيسية في الأرض، وهذا يساعد في كشف عن هياكل مدفونة بدون التنقيب."
-        }
-      }
-    },
-    {
-      "id": "test-question-2",
-      "question": {
-        "id": "question-2",
-        "text": {
-          "default": "What is the name of the new capital that Sargon II started building around 700 BC?",
-          "translation": "ما اسم العاصمة الجديدة التي بدأ سرجون الثاني بناءها حوالي عام 700 قبل الميلاد؟"
-        }
-      },
-      "options": [
-        {
-          "id": "option-1",
-          "text": {
-            "default": "Dur-Sharrukin",
-            "translation": "دور شروكين"
-          }
-        },
-        {
-          "id": "option-2",
-          "text": {
-            "default": "Nineveh",
-            "translation": "نينوى"
-          }
-        },
-        {
-          "id": "option-3",
-          "text": {
-            "default": "Khorsabad",
-            "translation": "خورساباد"
-          }
-        },
-        {
-          "id": "option-4",
-          "text": {
-            "default": "Babylon",
-            "translation": "بابل"
-          }
-        }
-      ],
-      "correctOptionId": "option-1",
-      "explanation": {
-        "id": "explanation-2",
-        "text": {
-          "default": "Sargon II started building the new capital, Dur-Sharrukin ('Fortress of Sargon'), around 700 BC.",
-          "translation": "بدأ سرجون الثاني ببناء العاصمة الجديدة، دور شروكين ('قلعة سرجون')، حوالي عام 700 قبل الميلاد."
-        }
-      }
+      ]
     }
-  ]
+  }
 }

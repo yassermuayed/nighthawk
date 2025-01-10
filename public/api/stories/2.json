@@ -10,7 +10,10 @@
       "text": {
         "default": "On the morning of June 30, 1908, an asteroid entered Earth’s atmosphere and exploded over Siberia, causing widespread devastation in one of the world’s most remote regions. Witnesses among the local Evenki people described a fiery object streaking across the sky, a flash brighter than the Sun, and a thunderous explosion. Some reported being thrown into the air and knocked unconscious, while others saw their homes destroyed. Although the event caused few human casualties due to the area's sparse population, it decimated reindeer herds and flattened trees across an estimated 830 square miles. Scientists later determined the asteroid, around 130 feet wide, detonated roughly six miles above the ground, releasing energy equivalent to a large nuclear bomb.",
         "translation": "في صباح يوم 30 يونيو 1908، دخل كويكب إلى الغلاف الجوي للأرض وانفجر فوق سيبيريا، مما تسبب في دمار واسع النطاق في واحدة من أكثر المناطق نائية في العالم. وصف الشهود من شعب إيفينكي المحلي رؤية جسم ناري يشق السماء، وسطوعًا أقوى من الشمس، وانفجارًا مدويًا. أفاد البعض بأنهم قُذفوا في الهواء وفقدوا وعيهم، بينما شاهد آخرون منازلهم مدمرة. وعلى الرغم من أن الحدث تسبب في عدد قليل من الإصابات البشرية نظرًا لانخفاض الكثافة السكانية في المنطقة، إلا أنه أدى إلى إبادة قطعان الرنة وسحق الأشجار على مساحة تقدر بحوالي 830 ميلًا مربعًا. وقد حدد العلماء لاحقًا أن الكويكب، الذي بلغ عرضه حوالي 130 قدمًا، انفجر على ارتفاع حوالي ستة أميال فوق سطح الأرض، مطلقًا طاقة تعادل قنبلة نووية كبيرة."
-      }
+      },
+      "notes": [
+        " ملحوظة تستخدم لشرح اضافي حول المقطع - a note about the paragraph"
+      ]
     },
     {
       "id": "paragraph2",
@@ -70,54 +73,23 @@
       }
     }
   ],
-  "testQuestions": [
-    {
-      "id": "tunguskaEventQuestion1",
-      "question": {
-        "id": "tunguskaEventParagraph",
-        "text": {
-          "default": "What caused the Tunguska event in 1908?",
-          "translation": "ما الذي تسبب في حدث تونغوسكا في عام 1908؟"
+  "quiz": {
+    "quiz": {
+      "quizTitle": "Test Your Understanding",
+      "questions": [
+        {
+          "question": "Choose the correct word to complete the sentence: 'I ___ to the gym every morning.'",
+          "questionType": "text",
+          "answers": ["go", "goes", "going", "gone"],
+          "correctAnswer": "1",
+          "answerSelectionType": "single",
+          "messageForCorrectAnswer": "Correct! 'I' pairs with 'go' in the present tense.",
+          "messageForIncorrectAnswer": "Incorrect. The subject 'I' requires the base form 'go'.",
+          "explanation": "The verb 'go' remains in its base form when used with the subject 'I'.",
+          "point": "1"
         }
-      },
-      "options": [
-        {
-          "id": "option1",
-          "text": {
-            "default": "A volcanic eruption",
-            "translation": "انفجار بركاني"
-          }
-        },
-        {
-          "id": "option2",
-          "text": {
-            "default": "A meteorite impact",
-            "translation": "اصطدام نيزك"
-          }
-        },
-        {
-          "id": "option3",
-          "text": {
-            "default": "An asteroid explosion",
-            "translation": "انفجار كويكب"
-          }
-        },
-        {
-          "id": "option4",
-          "text": {
-            "default": "A comet collision",
-            "translation": "اصطدام مذنب"
-          }
-        }
-      ],
-      "correctOptionId": "option3",
-      "explanation": {
-        "id": "tunguskaExplanation",
-        "text": {
-          "default": "The Tunguska event was caused by an asteroid explosion above Siberia in 1908.",
-          "translation": "حدث تونغوسكا تسبب في انفجار كويكب فوق سيبيريا في عام 1908."
-        }
-      }
+      ]
     }
-  ]
+  },
+  "words": { "destory": "rrrrrrrrrrrrيدمر", "widespread": "واسغ الانتشار" }
 }
