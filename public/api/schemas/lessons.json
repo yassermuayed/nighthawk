@@ -1,0 +1,60 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "array",
+    "items": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "number"
+        },
+        "title": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "string"
+          }
+        },
+        "description": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "string"
+          }
+        },
+        "image": {
+          "type": "string",
+          "format": "uri"
+        },
+        "lessons": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "number"
+              },
+              "title": {
+                "type": "string"
+              },
+              "description": {
+                "type": "string"
+              },
+              "image": {
+                "type": "string",
+                "format": "uri"
+              },
+              "url": {
+                "type": "string",
+                "format": "uri"
+              },
+              "type": {
+                "type": "string",
+                "enum": ["md", "quiz", ""]
+              }
+            },
+            "required": ["id", "title", "description", "image", "url", "type"]
+          }
+        }
+      },
+      "required": ["id", "title", "description", "image", "lessons"]
+    }
+  }
+  

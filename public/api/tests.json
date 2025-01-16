@@ -4,6 +4,8 @@
     "title": "Basic Evaluation Test",
     "description": "Use this test to evaluate yourself and find out what to study next.",
     "image": "https://placehold.co/400",
-    "url": "/test/1.json"
+    "url": "/test/1.json",
+    "level": 1,
+    "questionsCount": 11
   }
 ]
