@@ -1,0 +1,30 @@
+{
+  "id": 1,
+  "quizTitle": "A2 Evaluation Test",
+  "questions": [
+    {
+      "question": "Choose the correct option to complete the sentence: 'She ___ watching TV when I called.'",
+      "questionType": "text",
+      "answers": ["was", "were", "is", "are"],
+      "correctAnswer": "1",
+      "answerSelectionType": "single",
+      "messageForCorrectAnswer": "Correct! 'She was watching' is the correct past continuous tense.",
+      "messageForIncorrectAnswer": "Incorrect. The subject 'She' requires 'was' in the past continuous tense.",
+      "explanation": "The past continuous is formed with 'was' + verb-ing for singular subjects like 'she'.",
+      "point": "50",
+      "segment": "A2"
+    },
+    {
+      "question": "Choose the correct word to complete the sentence: 'If it ___ tomorrow, we’ll stay at home.'",
+      "questionType": "text",
+      "answers": ["rains", "rain", "raining", "rained"],
+      "correctAnswer": "1",
+      "answerSelectionType": "single",
+      "messageForCorrectAnswer": "Correct! 'Rains' is the right choice for the first conditional.",
+      "messageForIncorrectAnswer": "Incorrect. In the first conditional, we use the present simple tense in the 'if' clause.",
+      "explanation": "The first conditional uses 'if' + present simple, followed by 'will' + base verb.",
+      "point": "50",
+      "segment": "A2"
+    }
+  ]
+}

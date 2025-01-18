@@ -1,0 +1,64 @@
+{
+  "id": 1,
+  "quizTitle": "C2 Evaluation Test",
+  "questions": [
+    {
+      "question": "Choose the correct option to complete the sentence: 'Scarcely ___ the speech begin when the audience erupted into applause.'",
+      "questionType": "text",
+      "answers": ["had", "has", "did", "was"],
+      "correctAnswer": "1",
+      "answerSelectionType": "single",
+      "messageForCorrectAnswer": "Correct! 'Had' is used in this inverted past perfect structure.",
+      "messageForIncorrectAnswer": "Incorrect. After 'Scarcely,' the correct form is an inversion with 'had' followed by the past participle.",
+      "explanation": "This is a formal structure where 'Scarcely' at the beginning of the sentence requires inversion. The past perfect tense ('had begun') is needed for the time sequence.",
+      "point": "25",
+      "segment": "C2"
+    },
+    {
+      "question": "Choose the correct option to complete the sentence: 'Were it not for his perseverance, he ___ reached this level of success.'",
+      "questionType": "text",
+      "answers": [
+        "would never have",
+        "will never have",
+        "had never",
+        "could never"
+      ],
+      "correctAnswer": "1",
+      "answerSelectionType": "single",
+      "messageForCorrectAnswer": "Correct! 'Would never have' is used in this formal conditional construction.",
+      "messageForIncorrectAnswer": "Incorrect. In formal inversions like 'Were it not for,' the correct choice is 'would never have' to indicate a hypothetical past outcome.",
+      "explanation": "This sentence uses formal inversion ('Were it not for') to replace 'If it were not for.' The correct choice for a hypothetical past result is 'would never have.'",
+      "point": "25",
+      "segment": "C2"
+    },
+    {
+      "question": "Choose the correct option to complete the sentence: 'No sooner ___ the plane taken off than the passengers started complaining about the heat.'",
+      "questionType": "text",
+      "answers": ["had", "was", "did", "has"],
+      "correctAnswer": "1",
+      "answerSelectionType": "single",
+      "messageForCorrectAnswer": "Correct! 'Had' is required after 'No sooner' in this formal past perfect inversion.",
+      "messageForIncorrectAnswer": "Incorrect. 'No sooner' is followed by an inverted past perfect form: 'had' + past participle.",
+      "explanation": "After 'No sooner,' the sentence requires an inversion with the past perfect ('had' + past participle) to indicate the sequence of events in the past.",
+      "point": "25",
+      "segment": "C2"
+    },
+    {
+      "question": "Choose the correct option to complete the sentence: 'Hardly ___ to the meeting when the manager started questioning him about the report.'",
+      "questionType": "text",
+      "answers": [
+        "had he arrived",
+        "he had arrived",
+        "did he arrive",
+        "arrived he"
+      ],
+      "correctAnswer": "1",
+      "answerSelectionType": "single",
+      "messageForCorrectAnswer": "Correct! 'Had he arrived' follows the formal inversion rule after 'Hardly.'",
+      "messageForIncorrectAnswer": "Incorrect. After 'Hardly,' the sentence requires inversion with 'had he arrived' to reflect the past perfect tense.",
+      "explanation": "Formal structures like 'Hardly' at the beginning of a sentence require inversion. The past perfect tense ('had he arrived') emphasizes the sequence of events in the past.",
+      "point": "25",
+      "segment": "C2"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 1,
+  "quizTitle": "B2 Evaluation Test",
+  "questions": [
+    {
+      "question": "Choose the correct option to complete the sentence: 'By the time you arrive, we ___ dinner.'",
+      "questionType": "text",
+      "answers": [
+        "will have finished",
+        "have finished",
+        "will finish",
+        "finished"
+      ],
+      "correctAnswer": "1",
+      "answerSelectionType": "single",
+      "messageForCorrectAnswer": "Correct! 'Will have finished' indicates a future action that will be completed before another future event.",
+      "messageForIncorrectAnswer": "Incorrect. The correct form is 'will have finished,' which is the future perfect tense.",
+      "explanation": "The future perfect tense ('will have' + past participle) is used to describe actions that will be completed by a certain point in the future.",
+      "point": "50",
+      "segment": "B2"
+    },
+    {
+      "question": "Choose the correct option to complete the sentence: 'He admitted ___ the vase, but he refused to pay for it.'",
+      "questionType": "text",
+      "answers": ["breaking", "to break", "break", "broke"],
+      "correctAnswer": "1",
+      "answerSelectionType": "single",
+      "messageForCorrectAnswer": "Correct! 'Breaking' is the correct choice because certain verbs like 'admit' are followed by a gerund.",
+      "messageForIncorrectAnswer": "Incorrect. After the verb 'admit,' we use the gerund form (-ing).",
+      "explanation": "Some verbs, such as 'admit,' are followed by a gerund (verb + -ing) rather than an infinitive.",
+      "point": "50",
+      "segment": "B2"
+    }
+  ]
+}

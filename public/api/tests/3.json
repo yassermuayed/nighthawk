@@ -1,0 +1,30 @@
+{
+  "id": 1,
+  "quizTitle": "B1 Evaluation Test",
+  "questions": [
+    {
+      "question": "Choose the correct word to complete the sentence: 'I would have called you if I ___ your number.'",
+      "questionType": "text",
+      "answers": ["had", "have", "will have", "has"],
+      "correctAnswer": "1",
+      "answerSelectionType": "single",
+      "messageForCorrectAnswer": "Correct! 'Had' is used in the third conditional to refer to past unreal situations.",
+      "messageForIncorrectAnswer": "Incorrect. In the third conditional, 'if' is followed by 'had' + past participle.",
+      "explanation": "The third conditional is formed with 'if' + past perfect in the 'if' clause and 'would have' + past participle in the main clause.",
+      "point": "50",
+      "segment": "B1"
+    },
+    {
+      "question": "Choose the correct word to complete the sentence: 'The film was so interesting that I ___ to watch it again.'",
+      "questionType": "text",
+      "answers": ["wanted", "want", "was wanting", "will want"],
+      "correctAnswer": "1",
+      "answerSelectionType": "single",
+      "messageForCorrectAnswer": "Correct! 'Wanted' is appropriate because the past tense matches the context of the sentence.",
+      "messageForIncorrectAnswer": "Incorrect. The past simple tense 'wanted' is needed to match the past context.",
+      "explanation": "When describing past situations, the past simple tense is used to indicate completed actions.",
+      "point": "50",
+      "segment": "B1"
+    }
+  ]
+}

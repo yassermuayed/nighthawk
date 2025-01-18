@@ -1,0 +1,30 @@
+{
+  "id": 1,
+  "quizTitle": "C1 Evaluation Test",
+  "questions": [
+    {
+      "question": "Choose the correct option to complete the sentence: 'Had I known about the traffic, I ___ an earlier train.'",
+      "questionType": "text",
+      "answers": ["would have taken", "will have taken", "take", "had taken"],
+      "correctAnswer": "1",
+      "answerSelectionType": "single",
+      "messageForCorrectAnswer": "Correct! 'Would have taken' is used in this inverted third conditional structure.",
+      "messageForIncorrectAnswer": "Incorrect. In the third conditional, 'would have' + past participle is used to express a hypothetical past result.",
+      "explanation": "This is an example of an inverted third conditional sentence. 'Had I known' replaces 'If I had known,' and 'would have taken' is used in the main clause.",
+      "point": "50",
+      "segment": "C1"
+    },
+    {
+      "question": "Choose the correct option to complete the sentence: 'Not only ___ late, but he also forgot to bring the documents.'",
+      "questionType": "text",
+      "answers": ["was he", "he was", "he is", "is he"],
+      "correctAnswer": "1",
+      "answerSelectionType": "single",
+      "messageForCorrectAnswer": "Correct! 'Was he' correctly follows the inversion rule after 'Not only' in formal contexts.",
+      "messageForIncorrectAnswer": "Incorrect. After 'Not only,' inversion is required, so the correct structure is 'was he.'",
+      "explanation": "When 'Not only' begins a sentence, the following clause must have subject-verb inversion, making 'was he' the correct choice.",
+      "point": "50",
+      "segment": "C1"
+    }
+  ]
+}
