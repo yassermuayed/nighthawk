@@ -11,7 +11,7 @@
       "messageForCorrectAnswer": "Correct! 'I' pairs with 'go' in the present tense.",
       "messageForIncorrectAnswer": "Incorrect. The subject 'I' requires the base form 'go'.",
       "explanation": "The verb 'go' remains in its base form when used with the subject 'I'.",
-      "point": "1",
+      "point": "10",
       "segment": "A1"
     },
     {
@@ -28,7 +28,7 @@
       "messageForCorrectAnswer": "Correct! This is the proper use of the present perfect continuous tense.",
       "messageForIncorrectAnswer": "Incorrect. Remember the correct verb form for 'she'.",
       "explanation": "Present perfect continuous ('has been working') is used to describe actions continuing from the past until now.",
-      "point": "2",
+      "point": "10",
       "segment": "B2"
     },
     {
@@ -40,7 +40,7 @@
       "messageForCorrectAnswer": "Correct! 'Breath' is the correct word in this context.",
       "messageForIncorrectAnswer": "Incorrect. Think about what becomes visible in cold weather.",
       "explanation": "In very cold weather, you can see your breath due to condensation.",
-      "point": "1",
+      "point": "10",
       "segment": "B1"
     },
     {
@@ -52,7 +52,7 @@
       "messageForCorrectAnswer": "Correct! This is a correct use of the second conditional.",
       "messageForIncorrectAnswer": "Incorrect. Use 'had' for unreal conditions in the past.",
       "explanation": "The second conditional describes unreal or hypothetical situations using 'if' + past tense.",
-      "point": "2",
+      "point": "10",
       "segment": "B2"
     },
     {
@@ -64,7 +64,7 @@
       "messageForCorrectAnswer": "Correct! 'Rapidly' means the same as 'quickly'.",
       "messageForIncorrectAnswer": "Incorrect. Review the synonyms for 'quickly'.",
       "explanation": "Synonyms are words with similar meanings. 'Quickly' and 'rapidly' are synonymous.",
-      "point": "1",
+      "point": "10",
       "segment": "A2"
     },
     {
@@ -81,7 +81,7 @@
       "messageForCorrectAnswer": "Correct! This sentence is grammatically correct.",
       "messageForIncorrectAnswer": "Incorrect. Check the proper sentence order.",
       "explanation": "The correct word order in English is subject + verb + object + time expression.",
-      "point": "1",
+      "point": "10",
       "segment": "A1"
     },
     {
@@ -93,7 +93,7 @@
       "messageForCorrectAnswer": "Correct! 'She goes' is the right choice for singular subject agreement.",
       "messageForIncorrectAnswer": "Incorrect. Remember, 'goes' is used with singular third-person subjects.",
       "explanation": "The verb 'go' changes to 'goes' in the third-person singular present tense.",
-      "point": "5",
+      "point": "10",
       "segment": "Grammar"
     },
     {
@@ -105,7 +105,7 @@
       "messageForCorrectAnswer": "Correct! 'But' is a conjunction joining two clauses.",
       "messageForIncorrectAnswer": "Incorrect. The correct answer is 'but', as it connects the two clauses.",
       "explanation": "Conjunctions are words used to join phrases, clauses, or sentences.",
-      "point": "5",
+      "point": "10",
       "segment": "Parts of Speech"
     },
     {
@@ -122,7 +122,7 @@
       "messageForCorrectAnswer": "Correct! 'An umbrella' is correct because the article 'an' is used before vowel sounds.",
       "messageForIncorrectAnswer": "Incorrect. The correct answer is 'an umbrella.'",
       "explanation": "Articles 'a' and 'an' are used based on whether the following word begins with a consonant or vowel sound.",
-      "point": "5",
+      "point": "10",
       "segment": "Grammar"
     },
     {
@@ -151,7 +151,7 @@
       "messageForCorrectAnswer": "Correct! 'Quick', 'brown', and 'lazy' are all adjectives describing nouns.",
       "messageForIncorrectAnswer": "Incorrect. Remember, adjectives describe nouns and pronouns.",
       "explanation": "Adjectives provide more information about nouns or pronouns.",
-      "point": "10",
+      "point": "5",
       "segment": "Parts of Speech"
     }
   ]
