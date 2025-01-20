@@ -1,0 +1,123 @@
+{
+  "storyId": "3",
+  "title": {
+    "default": "Jane Austen: The Queen of Love, Life, and Timeless Tales",
+    "translation": "جين أوستن: ملكة الحب والحياة والحكايات الخالدة"
+  },
+  "content": [
+    {
+      "id": "paragraph1",
+      "text": {
+        "default": "Jane Austen was born in the quiet village of Steventon, Hampshire, in 1775. She spent the first 25 years of her life there, growing up in a large family with her siblings. It was in Steventon that she discovered her love for storytelling and began writing her earliest works.",
+        "translation": "وُلدت جين أوستن في قرية ستيفينتون الهادئة في هامبشاير عام 1775. أمضت أول 25 عامًا من حياتها هناك، حيث نشأت في عائلة كبيرة مع إخوتها. وفي ستيفينتون اكتشفت حبها لكتابة القصص وبدأت في كتابة أعمالها الأولى."
+      }
+    },
+    {
+      "id": "paragraph2",
+      "text": {
+        "default": "In 1801, Jane moved with her family to the city of Bath. She lived there until 1806. The lively social scene and elegant architecture of Bath influenced her, and the city appears in her novels, such as Northanger Abbey and Persuasion.",
+        "translation": "في عام 1801، انتقلت جين مع عائلتها إلى مدينة باث. عاشت هناك حتى عام 1806. أثرت الحياة الاجتماعية النشطة والهندسة المعمارية الأنيقة في باث على كتاباتها، وظهرت المدينة في رواياتها مثل 'دير نورثانجر' و'الإقناع'."
+      }
+    },
+    {
+      "id": "paragraph3",
+      "text": {
+        "default": "After leaving Bath, Jane lived in Southampton for a few years with her mother and sister. During this time, she continued writing and observing the world around her, which inspired her future novels.",
+        "translation": "بعد مغادرتها باث، عاشت جين في ساوثهامبتون لبضع سنوات مع والدتها وأختها. خلال هذا الوقت، استمرت في الكتابة ومراقبة العالم من حولها، مما ألهم رواياتها المستقبلية."
+      }
+    },
+    {
+      "id": "paragraph4",
+      "text": {
+        "default": "In 1809, Jane moved to a cottage in Chawton, Hampshire. This home became very special to her, as it was here that she wrote or revised most of her famous novels, including Pride and Prejudice and Emma. Today, her home in Chawton is a museum dedicated to her life and work.",
+        "translation": "في عام 1809، انتقلت جين إلى كوخ في تشاوتون، هامبشاير. أصبح هذا المنزل مميزًا جدًا لها، حيث كتبت فيه أو راجعت معظم رواياتها الشهيرة، مثل 'كبرياء وتحامل' و'إيما'. اليوم، أصبح منزلها في تشاوتون متحفًا مخصصًا لحياتها وأعمالها."
+      }
+    },
+    {
+      "id": "paragraph5",
+      "text": {
+        "default": "In 1817, Jane moved to Winchester to seek medical treatment as her health declined. Unfortunately, she passed away on July 18, 1817, at the age of 41. She was buried in Winchester Cathedral, where visitors still come to honor her memory.",
+        "translation": "في عام 1817، انتقلت جين إلى وينشستر لتلقي العلاج الطبي مع تدهور صحتها. للأسف، توفيت في 18 يوليو 1817 عن عمر يناهز 41 عامًا. دُفنت في كاتدرائية وينشستر، حيث لا يزال الزوار يأتون لتكريم ذكراها."
+      }
+    }
+  ],
+  "images": [
+    {
+      "id": "image-1",
+      "type": "image",
+      "url": "https://i.guim.co.uk/img/static/sys-images/Arts/Arts_/Pictures/2013/2/4/1359987623852/pride-and-Prejudice-the-m-010.jpg?width=620&dpr=1&s=none&crop=none",
+      "alt": "A portrait of jane austen",
+      "description": {
+        "default": "Jane Austen: The Queen of Love, Life, and Timeless Tales",
+        "translation": "جين أوستن: ملكة الحب والحياة والحكايات الخالدة"
+      }
+    }
+  ],
+  "quiz": {
+    "quiz": {
+      "quizTitle": "Test Your Understanding",
+      "questions": [
+        {
+          "question": "Where was Jane Austen born?",
+          "questionType": "text",
+          "answers": ["Chawton", "Steventon", "Bath", "Southampton"],
+          "correctAnswer": "2",
+          "answerSelectionType": "single",
+          "messageForCorrectAnswer": "Correct! Jane Austen was born in Steventon.",
+          "messageForIncorrectAnswer": "Incorrect. Jane Austen was born in Steventon, Hampshire.",
+          "explanation": "Jane Austen was born in the quiet village of Steventon, Hampshire, in 1775.",
+          "point": "1"
+        },
+        {
+          "question": "Which city influenced Jane Austen's novels *Northanger Abbey* and *Persuasion*?",
+          "questionType": "text",
+          "answers": ["Southampton", "Bath", "Winchester", "Chawton"],
+          "correctAnswer": "2",
+          "answerSelectionType": "single",
+          "messageForCorrectAnswer": "Correct! Bath influenced these novels.",
+          "messageForIncorrectAnswer": "Incorrect. Bath is the city that influenced *Northanger Abbey* and *Persuasion*.",
+          "explanation": "Jane Austen lived in Bath from 1801 to 1806, and its social scene and architecture inspired these works.",
+          "point": "1"
+        },
+        {
+          "question": "Where did Jane Austen write or revise most of her famous novels?",
+          "questionType": "text",
+          "answers": ["Bath", "Steventon", "Southampton", "Chawton"],
+          "correctAnswer": "4",
+          "answerSelectionType": "single",
+          "messageForCorrectAnswer": "Correct! Jane Austen wrote or revised many novels in Chawton.",
+          "messageForIncorrectAnswer": "Incorrect. Jane Austen wrote or revised most of her famous novels in Chawton.",
+          "explanation": "In 1809, Jane moved to Chawton, where she worked on novels like *Pride and Prejudice* and *Emma*.",
+          "point": "1"
+        },
+        {
+          "question": "Why did Jane Austen move to Winchester in 1817?",
+          "questionType": "text",
+          "answers": [
+            "To visit family",
+            "For medical treatment",
+            "To start a new book",
+            "To open a school"
+          ],
+          "correctAnswer": "2",
+          "answerSelectionType": "single",
+          "messageForCorrectAnswer": "Correct! Jane Austen moved to Winchester for medical treatment.",
+          "messageForIncorrectAnswer": "Incorrect. Jane Austen moved to Winchester because of her declining health.",
+          "explanation": "In 1817, Jane moved to Winchester to seek treatment for her health problems.",
+          "point": "1"
+        },
+        {
+          "question": "Where is Jane Austen buried?",
+          "questionType": "text",
+          "answers": ["Steventon", "Chawton", "Bath", "Winchester Cathedral"],
+          "correctAnswer": "4",
+          "answerSelectionType": "single",
+          "messageForCorrectAnswer": "Correct! Jane Austen is buried in Winchester Cathedral.",
+          "messageForIncorrectAnswer": "Incorrect. Jane Austen's final resting place is Winchester Cathedral.",
+          "explanation": "Jane Austen passed away in 1817 and was buried in Winchester Cathedral.",
+          "point": "1"
+        }
+      ]
+    }
+  }
+}

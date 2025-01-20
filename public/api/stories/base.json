@@ -1,0 +1,46 @@
+{
+  "storyId": "sargon-city-discovery",
+  "title": {
+    "default": "Sargon II’s Forgotten City Revealed Through New Survey",
+    "translation": "مدينة سرجون الثاني المنسية: اكتشاف جديد يكشف الأسرار"
+  },
+  "content": [
+    {
+      "id": "sentence-1-1",
+      "text": {
+        "default": "Around 700 BC, Neo-Assyrian emperor Sargon II started building a new capital, Dur-Sharrukin ('Fortress of Sargon'), in what is now Iraq.",
+        "translation": "حوالي عام 700 قبل الميلاد، بدأ الإمبراطور الآشوري الجديد سرجون الثاني بناء عاصمة جديدة، دور شروكين ('قلعة سرجون')، في ما يُعرف الآن بالعراق."
+      }
+    }
+  ],
+  "images": [
+    {
+      "id": "image-1",
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Reconstructed_Model_of_Palace_of_Sargon_at_Khosrabad_1905.jpg/1280px-Reconstructed_Model_of_Palace_of_Sargon_at_Khosrabad_1905.jpg",
+      "alt": "Image 1",
+      "description": {
+        "default": "Reconstructed Model of Palace of Sargon at Khorsabad",
+        "translation": "نموذج معماري معاد بناء قصر سرجون في خورساباد"
+      }
+    }
+  ],
+  "quiz": {
+    "quiz": {
+      "quizTitle": "Test Your Understanding",
+      "questions": [
+        {
+          "question": "Choose the correct word to complete the sentence: 'I .... to the gym every morning.'",
+          "questionType": "text",
+          "answers": ["go", "goes", "going", "gone"],
+          "correctAnswer": "1",
+          "answerSelectionType": "single",
+          "messageForCorrectAnswer": "Correct! 'I' pairs with 'go' in the present tense.",
+          "messageForIncorrectAnswer": "Incorrect. The subject 'I' requires the base form 'go'.",
+          "explanation": "The verb 'go' remains in its base form when used with the subject 'I'.",
+          "point": "1"
+        }
+      ]
+    }
+  }
+}

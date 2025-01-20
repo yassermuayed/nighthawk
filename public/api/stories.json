@@ -9,9 +9,16 @@
     },
     "description": "The ancient city of Dur-Sharrukin was built by Sargon II in the 8th century BC.",
     "tags": ["ancient", "archaeology", "museum"],
+    "category": "Science",
     "level": 1,
     "words": 100,
-    "locations": [{ "country": "United States", "place": "New York" }],
+    "locations": [
+      {
+        "country": "Iraq",
+        "place": "nineveh",
+        "coordinates": "36.508308, 43.228658"
+      }
+    ],
     "date": "2020-01-01",
     "sources": ["https://www.englishpod"]
   },
@@ -24,16 +31,10 @@
       "translation": "حدث تونغوسكا: كارثة كونية"
     },
     "description": "On June 30, 1908, a cosmic event in Siberia shook the Earth, leaving behind a mystery and a legacy that still influences planetary defense efforts today.",
-    "tags": [
-      "Tunguska",
-      "Asteroids",
-      "Cosmic Impacts",
-      "Planetary Defense",
-      "Siberia",
-      "Space Exploration"
-    ],
-    "level": 3, 
-    "words": 1050, 
+    "tags": ["Tunguska", "Asteroids", "Siberia"],
+    "category": "Science",
+    "level": 3,
+    "words": 1050,
     "locations": [
       {
         "country": "Russia",
@@ -44,6 +45,31 @@
     "date": "2025-01-01",
     "sources": [
       "https://www.nasa.gov/history/115-years-ago-the-tunguska-asteroid-impact-event/"
+    ]
+  },
+  {
+    "id": 3,
+    "url": "https://example.com/tunguska-event-1908",
+    "cover": "https://i.guim.co.uk/img/static/sys-images/Arts/Arts_/Pictures/2013/2/4/1359987623852/pride-and-Prejudice-the-m-010.jpg?width=620&dpr=1&s=none&crop=none",
+    "title": {
+      "default": "Jane Austen: The Queen of Love, Life, and Timeless Tales",
+      "translation": "جين أوستن: ملكة الحب والحياة والحكايات الخالدة"
+    },
+    "description": "جين أوستن كاتبة إنجليزية عظيمة أثرت في الأدب العالمي برواياتها الرومانسية والذكية.",
+    "tags": ["Jane Austen", "Literature", "Romance"],
+    "category": "Literature",
+    "level": 1,
+    "words": 1050,
+    "locations": [
+      {
+        "country": "England",
+        "place": "Steventon",
+        "coordinates": "51.6253° N, 1.3283° W"
+      }
+    ],
+    "date": "2025-01-20",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jane_Austen"
     ]
   }
 ]
