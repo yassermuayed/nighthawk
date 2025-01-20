@@ -50,7 +50,7 @@
   {
     "id": 3,
     "url": "https://example.com/tunguska-event-1908",
-    "cover": "https://i.guim.co.uk/img/static/sys-images/Arts/Arts_/Pictures/2013/2/4/1359987623852/pride-and-Prejudice-the-m-010.jpg?width=620&dpr=1&s=none&crop=none",
+    "cover": "https://bibliolifestyle.com/wp-content/uploads/2024/01/Questions-about-Austen.jpg",
     "title": {
       "default": "Jane Austen: The Queen of Love, Life, and Timeless Tales",
       "translation": "جين أوستن: ملكة الحب والحياة والحكايات الخالدة"
@@ -68,8 +68,6 @@
       }
     ],
     "date": "2025-01-20",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Jane_Austen"
-    ]
+    "sources": ["https://en.wikipedia.org/wiki/Jane_Austen"]
   }
 ]

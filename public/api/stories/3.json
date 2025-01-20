@@ -45,7 +45,7 @@
     {
       "id": "image-1",
       "type": "image",
-      "url": "https://i.guim.co.uk/img/static/sys-images/Arts/Arts_/Pictures/2013/2/4/1359987623852/pride-and-Prejudice-the-m-010.jpg?width=620&dpr=1&s=none&crop=none",
+      "url": "https://bibliolifestyle.com/wp-content/uploads/2024/01/Questions-about-Austen.jpg",
       "alt": "A portrait of jane austen",
       "description": {
         "default": "Jane Austen: The Queen of Love, Life, and Timeless Tales",
@@ -119,5 +119,8 @@
         }
       ]
     }
+  },
+  "words": {
+    "timelss": "خالدة"
   }
 }
