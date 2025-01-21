@@ -5,12 +5,5 @@
     "description": "This is for you if you know a word or two and want to take your english to the next level.",
     "level": 1,
     "lessonsCount": 12
-  },
-  {
-    "id": 2,
-    "title": "Your second course in english",
-    "description": "This is for you if you know a word or two and want to take your english to the next level.",
-    "level": 3,
-    "lessonsCount": 45
   }
 ]
