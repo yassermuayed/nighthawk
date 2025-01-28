@@ -1,0 +1,618 @@
+{
+  "meta": {
+    "id": 1,
+    "title": "100 Most Common Words",
+    "description": "The 100 most common words in English, which make up half of all written material.",
+    "image": "https://placehold.co/400",
+    "url": "/words/1.json"
+  },
+  "about": " Only 100 words make up half of all written material. Let's learn them!",
+  "cards": [
+    {
+      "front": "a",
+      "back": "ا",
+      "explanation": "an indefinite article used to indicate a noun or noun phrase",
+      "hint": "the apple"
+    },
+    {
+      "front": "about",
+      "explanation": "relating to or concerning something",
+      "hint": "This movie is about a group of friends who travel the world.",
+      "back": "حول"
+    },
+    {
+      "front": "all",
+      "explanation": "completely, entire",
+      "hint": "I have all the necessary materials.",
+      "back": "كل"
+    },
+    {
+      "front": "also",
+      "explanation": "in addition to something else; also",
+      "hint": "I like coffee and tea.",
+      "back": "ايضا"
+    },
+    {
+      "front": "and",
+      "explanation": "a conjunction used to connect fronts, phrases, or clauses in a sentence",
+      "hint": "I like and hate coffee.",
+      "back": "و"
+    },
+    {
+      "front": "as",
+      "explanation": "in the same manner, degree or amount as something else.",
+      "hint": "He plays soccer as well as basketball.",
+      "back": "كما"
+    },
+    {
+      "front": "at",
+      "explanation": "in a location or position; on something",
+      "hint": "She put her book at the top of the shelf.",
+      "back": "على"
+    },
+    {
+      "front": "be",
+      "explanation": "to exist or have a quality",
+      "hint": "She is a good singer.",
+      "back": "كون"
+    },
+    {
+      "front": "because",
+      "explanation": "reason or cause for something",
+      "hint": "I'm going to the movies because I want to see a new movie.",
+      "back": "لأن"
+    },
+    {
+      "front": "but",
+      "explanation": "used to indicate a contrast or exception, often used to introduce a negative statement.",
+      "hint": "I wanted to go, but I had other plans.",
+      "back": "لكن"
+    },
+    {
+      "front": "by",
+      "explanation": "with the help of or using something as an instrument",
+      "hint": "The teacher used a ruler by her side to measure the length of the paper.",
+      "back": "بواسطة"
+    },
+    {
+      "front": "can",
+      "explanation": "capable of being used for a particular purpose",
+      "hint": "She can sing beautifully.",
+      "back": "يستطيع"
+    },
+    {
+      "front": "come",
+      "explanation": "to move towards someone or something",
+      "hint": "She will come to the party tonight.",
+      "back": "يأتي"
+    },
+    {
+      "front": "could",
+      "explanation": "can or may be done",
+      "hint": "She could speak English fluently.",
+      "back": "يمكن"
+    },
+    {
+      "front": "day",
+      "explanation": "a period of time between sunrise and sunset, especially as a unit of time used in calendars.",
+      "hint": "I love spending my days at the beach.",
+      "back": "يوم"
+    },
+    {
+      "front": "do",
+      "explanation": "to accomplish or perform something",
+      "hint": "She has to do her homework tonight.",
+      "back": "يفعل"
+    },
+    {
+      "front": "even",
+      "explanation": "being equal in amount, degree, or value",
+      "hint": "She has an even smile.",
+      "back": "متعادل"
+    },
+    {
+      "front": "find",
+      "explanation": "to discover or locate something",
+      "hint": "She will find the book on the shelf.",
+      "back": "إيجاد"
+    },
+    {
+      "front": "first",
+      "explanation": "initial or primary in order, time, or degree",
+      "hint": "The first day of school was a big success.",
+      "back": "أول"
+    },
+    {
+      "front": "for",
+      "explanation": "used to indicate purpose or intention",
+      "hint": "I'm doing this for you",
+      "back": "ل"
+    },
+    {
+      "front": "from",
+      "explanation": "originating from a place or person",
+      "hint": "I am from New York.",
+      "back": "من"
+    },
+    {
+      "front": "get",
+      "explanation": "to obtain or acquire something",
+      "hint": "I will get a coffee from the café.",
+      "back": "يحصل"
+    },
+    {
+      "front": "give",
+      "explanation": "to provide or supply something to someone or something",
+      "hint": "Can you give me a cup of water?",
+      "back": "يعطي"
+    },
+    {
+      "front": "go",
+      "explanation": "to move or travel from one place to another",
+      "hint": "I want to go to the store.",
+      "back": "يذهب"
+    },
+    {
+      "front": "have",
+      "explanation": "to possess or hold something",
+      "hint": "I have a dog.",
+      "back": "يملك"
+    },
+    {
+      "front": "he",
+      "explanation": "a person considered as the subject of a sentence or clause, especially when referring to himself or herself",
+      "hint": "John is he.",
+      "back": "هو"
+    },
+    {
+      "front": "her",
+      "explanation": "relating to or characteristic of a female person or animal; belonging to her; intended for or affecting only females",
+      "hint": "The dress was designed for her.",
+      "back": "هي"
+    },
+    {
+      "front": "aziza",
+      "explanation": "Beloved or dear one",
+      "hint": "She is my aziza.",
+      "back": "أزيزة"
+    },
+    {
+      "front": "him",
+      "explanation": "the person or animal referred to by the pronoun he or she",
+      "hint": "He is a great friend of his.",
+      "back": "هو"
+    },
+    {
+      "front": "his",
+      "explanation": "belonging to him",
+      "hint": "That's his car.",
+      "back": "له"
+    },
+    {
+      "front": "how",
+      "explanation": "in what way or manner",
+      "hint": "I want to know how you did it.",
+      "back": "كيف"
+    },
+    {
+      "front": "why",
+      "explanation": "to what end or purpose",
+      "hint": "I'm not sure why I feel this way.",
+      "back": "لماذا"
+    },
+    {
+      "front": "I",
+      "explanation": "",
+      "hint": "This is a sentence with the front I.",
+      "back": "أنا"
+    },
+    {
+      "front": "if",
+      "explanation": "used to indicate a condition or circumstance",
+      "hint": "I will go if the weather permits.",
+      "back": "إذا"
+    },
+    {
+      "front": "in",
+      "explanation": "within or inside something; being contained within a surface",
+      "hint": "She looked in the mirror.",
+      "back": "في"
+    },
+    {
+      "front": "into",
+      "explanation": "in a place where something is or is put into",
+      "hint": "She put the book into the bag.",
+      "back": "في"
+    },
+    {
+      "front": "it",
+      "explanation": "an object, person, or thing",
+      "hint": "She is reading it.",
+      "back": "هو"
+    },
+    {
+      "front": "its",
+      "explanation": "belonging to it or its possessive pronoun",
+      "hint": "The cat chases its tail.",
+      "back": "له"
+    },
+    {
+      "front": "just",
+      "explanation": "correct, fair, reasonable, appropriate",
+      "hint": "She felt that the punishment was just.",
+      "back": "فقط"
+    },
+    {
+      "front": "know",
+      "explanation": "to be aware of or to have knowledge of something",
+      "hint": "I know how to ride a bike.",
+      "back": "يعرف"
+    },
+    {
+      "front": "like",
+      "explanation": "to have a preference for something",
+      "hint": "I like ice cream",
+      "back": "أحب"
+    },
+    {
+      "front": "look",
+      "explanation": "to see or glance at something",
+      "hint": "She took a look around the room.",
+      "back": "نظرة"
+    },
+    {
+      "front": "make",
+      "explanation": "to produce or create something",
+      "hint": "She makes a great cup of coffee.",
+      "back": "يحفظ"
+    },
+    {
+      "front": "man",
+      "explanation": "an adult male human being",
+      "hint": "a tall man with a beard entered the restaurant",
+      "back": "رجل"
+    },
+    {
+      "front": "many",
+      "explanation": "a large or numerous quantity of something",
+      "hint": "I have many books on my shelf.",
+      "back": "كثير"
+    },
+    {
+      "front": "me",
+      "explanation": "belonging to or identified with the speaker or addressee of a sentence, question, or utterance",
+      "hint": "I'm going to the store for me and my friend.",
+      "back": "أنا"
+    },
+    {
+      "front": "more",
+      "explanation": "a greater amount or degree",
+      "hint": "I need more milk.",
+      "back": "أكثر"
+    },
+    {
+      "front": "my",
+      "explanation": "belonging to me",
+      "hint": "That's my book.",
+      "back": "لي"
+    },
+    {
+      "front": "new",
+      "explanation": "recently created or experienced; existing for the first time",
+      "hint": "I just got a new phone.",
+      "back": "جديد"
+    },
+    {
+      "front": "no",
+      "explanation": "used to indicate refusal or denial",
+      "hint": "I don't want to go.",
+      "back": "لا"
+    },
+    {
+      "front": "not",
+      "explanation": "used for negation, opposite of something",
+      "hint": "I don't like ice cream.",
+      "back": "لا"
+    },
+    {
+      "front": "now",
+      "explanation": "at this time, present moment",
+      "hint": "I will meet you now.",
+      "back": "الآن"
+    },
+    {
+      "front": "of",
+      "explanation": "used to indicate a relationship of involvement, possession, or origin.",
+      "hint": "She is the daughter of John.",
+      "back": "من"
+    },
+    {
+      "front": "on",
+      "explanation": "being on something, having a position or location",
+      "hint": "She placed the phone on the table.",
+      "back": "على"
+    },
+    {
+      "front": "one",
+      "explanation": "a single entity or unit of quantity, amount, etc.",
+      "hint": "I need one apple for the pie.",
+      "back": "واحد"
+    },
+    {
+      "front": "only",
+      "explanation": "sole or exclusive",
+      "hint": "She is the only one who can help.",
+      "back": "فقط"
+    },
+    {
+      "front": "or",
+      "explanation": "used to indicate a choice between two or more things, to show that something is true, or to indicate a possibility",
+      "hint": "Do you want coffee or tea?",
+      "back": "أو"
+    },
+    {
+      "front": "other",
+      "explanation": "not one of the others; unlike",
+      "hint": "I want the other book.",
+      "back": "آخر"
+    },
+    {
+      "front": "our",
+      "explanation": "belonging to us, something shared or enjoyed by a group of people",
+      "hint": "We are going on vacation our week.",
+      "back": "لنا"
+    },
+    {
+      "front": "out",
+      "explanation": "moving from a place or situation to another",
+      "hint": "I'm going out for dinner.",
+      "back": "خارج"
+    },
+    {
+      "front": "people",
+      "explanation": "A group of human beings",
+      "hint": "The people in the park were playing games.",
+      "back": "ناس"
+    },
+    {
+      "front": "say",
+      "explanation": "to express or communicate something",
+      "hint": "She says she's happy.",
+      "back": "قال"
+    },
+    {
+      "front": "see",
+      "explanation": "to perceive with the eyes or to understand",
+      "hint": "I can see the Eiffel Tower from here.",
+      "back": "رؤية"
+    },
+    {
+      "front": "she",
+      "explanation": "the female subject of a sentence or the object of a verb",
+      "hint": "She is going to the store.",
+      "back": "هي"
+    },
+    {
+      "front": "so",
+      "explanation": "used to indicate agreement or confirmation, especially when talking about something that is obvious or has already been mentioned.",
+      "hint": "That's so cool!",
+      "back": "حتى"
+    },
+    {
+      "front": "some",
+      "explanation": "a small amount or quantity",
+      "hint": "I ate some food for breakfast.",
+      "back": "بعض"
+    },
+    {
+      "front": "take",
+      "explanation": "to receive something given to you, or to move your hand towards something",
+      "hint": "Can I take my phone?",
+      "back": "أخذ"
+    },
+    {
+      "front": "tell",
+      "explanation": "to communicate or share information verbally",
+      "hint": "She told me about her new job.",
+      "back": "اخبر"
+    },
+    {
+      "front": "than",
+      "explanation": "used for comparison",
+      "hint": "He is taller than I am.",
+      "back": "من"
+    },
+    {
+      "front": "that",
+      "explanation": "used to introduce a person or thing",
+      "hint": "I like that book.",
+      "back": ""
+    },
+    {
+      "front": "the",
+      "explanation": "a definite article used to refer to a specific person, place, or thing",
+      "hint": "I want the book on the table.",
+      "back": "ال"
+    },
+    {
+      "front": "their",
+      "explanation": "belonging to them, used as possessive pronoun after a singular or plural noun",
+      "hint": "Their car is red.",
+      "back": "لهم"
+    },
+    {
+      "front": "them",
+      "explanation": "people or things regarded as the subject of a sentence",
+      "hint": "They are going to the store.",
+      "back": "هم"
+    },
+    {
+      "front": "then",
+      "explanation": "in that case, next",
+      "hint": "I'll meet you then.",
+      "back": "ثم"
+    },
+    {
+      "front": "there",
+      "explanation": "indicating a place or direction",
+      "hint": "Put the book over there on the table.",
+      "back": "هناك"
+    },
+    {
+      "front": "these",
+      "explanation": "used to refer to things previously mentioned or easily identified",
+      "hint": "I'm going to these movies with you.",
+      "back": "هذه"
+    },
+    {
+      "front": "they",
+      "explanation": "used to refer to people or animals, especially as a group of three or more",
+      "hint": "She is going to meet them at the store.",
+      "back": "هُمُ"
+    },
+    {
+      "front": "thing",
+      "explanation": "a person, place, or thing of interest or importance",
+      "hint": "The new smartphone is a great thing.",
+      "back": "شيء"
+    },
+    {
+      "front": "think",
+      "explanation": "to consider or reflect on something carefully and wisely",
+      "hint": "She takes a moment to think before making a decision.",
+      "back": "يعتقد"
+    },
+    {
+      "front": "this",
+      "explanation": "Used to refer to something or someone near the speaker, a specific time or event, etc.",
+      "hint": "Can you pass me this book?",
+      "back": "هذا"
+    },
+    {
+      "front": "those",
+      "explanation": "used to refer to a group of people or things that are already known or mentioned",
+      "hint": "I want to go to those places I visited last year.",
+      "back": "أولئك"
+    },
+    {
+      "front": "time",
+      "explanation": "the measure of the duration between events or periods",
+      "hint": "I have a meeting at 2 o'clock.",
+      "back": "وقت"
+    },
+    {
+      "front": "to",
+      "explanation": "in the direction of or destination",
+      "hint": "She's going to the store.",
+      "back": "إلى"
+    },
+    {
+      "front": "two",
+      "explanation": "a numerical value indicating the quantity of 2",
+      "hint": "I have two apples.",
+      "back": "اثنان"
+    },
+    {
+      "front": "up",
+      "explanation": "in a direction vertically upwards or to an upper position",
+      "hint": "She walked up the stairs.",
+      "back": "فوق"
+    },
+    {
+      "front": "use",
+      "explanation": "to employ or utilize something for a particular purpose",
+      "hint": "She will use the computer to finish her project.",
+      "back": "استخدام"
+    },
+    {
+      "front": "very",
+      "explanation": "to a great degree or extent",
+      "hint": "She is very happy.",
+      "back": "جدا"
+    },
+    {
+      "front": "want",
+      "explanation": "to have a desire or wish for something",
+      "hint": "I want to go to the beach.",
+      "back": "يريد"
+    },
+    {
+      "front": "way",
+      "explanation": "a path or route",
+      "hint": "She chose her way through the forest.",
+      "back": "طريق"
+    },
+    {
+      "front": "we",
+      "explanation": "plural form of 'us'",
+      "hint": "They are with us.",
+      "back": "نحن"
+    },
+    {
+      "front": "well",
+      "explanation": "in a good or satisfactory manner",
+      "hint": "a source of fresh water",
+      "back": "جيدا"
+    },
+    {
+      "front": "what",
+      "explanation": "used to ask for information or explanation about something",
+      "hint": "I want to know what's going on.",
+      "back": "ماذا"
+    },
+    {
+      "front": "when",
+      "explanation": "at what time",
+      "hint": "I will meet you when the bus arrives.",
+      "back": "متى"
+    },
+    {
+      "front": "where",
+      "explanation": "used to ask for hints or specify which one",
+      "hint": "Which book did you read?",
+      "back": "أي"
+    },
+    {
+      "front": "who",
+      "explanation": "a person or people",
+      "hint": "Who is going to the party?",
+      "back": "من"
+    },
+    {
+      "front": "will",
+      "explanation": "future tense of 'can' or 'shall'",
+      "hint": "I will go to the movies tonight.",
+      "back": "سوف"
+    },
+    {
+      "front": "with",
+      "explanation": "accompanied by",
+      "hint": "She is with her friends.",
+      "back": "مع"
+    },
+    {
+      "front": "would",
+      "explanation": "past tense of will or could, used to express possibility or necessity",
+      "hint": "I would have gone if I had known about it.",
+      "back": "سوف"
+    },
+    {
+      "front": "year",
+      "explanation": "A period of time that has passed or is about to pass, typically measured in years.",
+      "hint": "I will celebrate my birthday next year.",
+      "back": "السنة"
+    },
+    {
+      "front": "you",
+      "explanation": "the person or people being addressed or referred to",
+      "hint": "How are you doing today?",
+      "back": "أنت"
+    },
+    {
+      "front": "your",
+      "explanation": "belonging to you, indicating possession or belonging",
+      "hint": "That is your book.",
+      "back": "لك"
+    }
+  ]
+}

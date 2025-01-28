@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "title": "100 Most Common Words",
+    "description": "The 100 most common words in English, which make up half of all written material.",
+    "image": "https://placehold.co/400",
+    "level": 1,
+    "cards": 100
+  }
+]

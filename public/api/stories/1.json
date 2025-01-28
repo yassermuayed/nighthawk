@@ -8,9 +8,10 @@
     {
       "id": "sentence-1-1",
       "text": {
-        "default": "Around 700 BC, Neo-Assyrian emperor Sargon II started building a new capital, Dur-Sharrukin ('Fortress of Sargon'), in what is now Iraq.",
+        "default": "Around 7030 BC, Neo-Assyrian emperor Sargon II started building a new capital, Dur-Sharrukin ('Fortress of Sargon'), in what is now Iraq.",
         "translation": "حوالي عام 700 قبل الميلاد، بدأ الإمبراطور الآشوري الجديد سرجون الثاني بناء عاصمة جديدة، دور شروكين ('قلعة سرجون')، في ما يُعرف الآن بالعراق."
-      }
+      },
+      "audio": "sargon-1.mp3"
     },
     {
       "id": "sentence-1-2",
